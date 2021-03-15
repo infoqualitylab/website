@@ -13,18 +13,14 @@ Apr 12 Version 3 circulated to stakeholders for last look  <br/>
 Apr 26 Deadline for comments, suggestions <br/>
 May 3 White Paper completed <br/>
  <br/>
-We look forward to your feedback to help shape the scope of the recommendations! <br/>
-
-It is also being circulated via the F1000Research Science Policy Research gateway to maximize the feedback we receive.
-
-
-**Recommendations**
+We look forward to your feedback to help shape the scope of the recommendations, which are:
 1. Prevent retractions from polluting the literature through the public availability of high- quality, consistent information about retractions.
 2. Make retraction information easy to find and use by using clear and consistent display standards.
 3. Recommend a taxonomy of retraction categories/classifications and corresponding retraction metadata that can be adopted by all stakeholders.
 4. Develop best practices for coordinating the retraction process.
 5. Educate stakeholders about retraction and pre- and post-publication stewardship of the scholarly record.
 
+The whitepaper is also being circulated via the F1000Research Science Policy Research gateway to maximize the feedback we receive.
 
 
  
