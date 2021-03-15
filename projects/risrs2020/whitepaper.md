@@ -3,10 +3,12 @@ layout: risrs2020
 title: Draft Whitepaper
 permalink: /projects/risrs2020/whitepaper
 ---
-Version 2 of the whitepaper is currently available for comment. [PDF](https://github.com/infoqualitylab/website/blob/gh-pages/images/risrs2020/risrs-draft-v2.pdf) and [Word Doc](https://github.com/infoqualitylab/website/blob/gh-pages/images/risrs2020/risrs-draft-v2.docx) versions are available here. It is also being circulated via the F1000Research Science Policy Research gateway to maximize the feedback we receive.  <br/>
- <br/>
-Comments can be made directly in the [Google Doc version](https://docs.google.com/document/d/1wzwPCnQqgWFurxT1thRmmzYo32ePF1cqDc3_zE7iTr4/edit?ouid=102626021933915923776&usp=docs_home&ths=true), or sent by email to jodi@illinois.edu.  <br/>
- <br/>
+Version 2 of the whitepaper is currently available for comment. [PDF](https://github.com/infoqualitylab/website/blob/gh-pages/images/risrs2020/risrs-draft-v2.pdf) and [Word Doc](https://github.com/infoqualitylab/website/blob/gh-pages/images/risrs2020/risrs-draft-v2.docx) versions are available here. It is also being circulated via the F1000Research Science Policy Research gateway to maximize the feedback we receive.
+
+
+Comments can be made directly in the [Google Doc version](https://docs.google.com/document/d/1wzwPCnQqgWFurxT1thRmmzYo32ePF1cqDc3_zE7iTr4/edit?ouid=102626021933915923776&usp=docs_home&ths=true), or sent by email to jodi@illinois.edu.
+
+
 The proposed schedule for ongoing feedback is: <br/>
 Mar 14 Version 2 circulated to stakeholders <br/>
 Mar 29 Deadline for comments, suggestions <br/>
@@ -16,20 +18,19 @@ May 3 White Paper completed <br/>
  <br/>
 We look forward to your feedback to help shape the scope of the recommendations! <br/>
 
- <br/>
 
-**Recommendations** <br/>
- <br/>
+
+**Recommendations**
 1. Prevent retractions from polluting the literature through the public availability of high- quality, consistent information about retractions.
 2. Make retraction information easy to find and use by using clear and consistent display standards.
 3. Recommend a taxonomy of retraction categories/classifications and corresponding retraction metadata that can be adopted by all stakeholders.
 4. Develop best practices for coordinating the retraction process.
 5. Educate stakeholders about retraction and pre- and post-publication stewardship of the scholarly record.
 
- <br/>
+
+
  
-**EXECUTIVE SUMMARY** <br/>
- <br/>
+**EXECUTIVE SUMMARY**
 Retraction is a mechanism for alerting readers to unreliable material,
 effectively removing from the published scientific and scholarly record
 articles that are deemed to be unreliable or seriously flawed whether
@@ -63,7 +64,9 @@ scientific and scholarly information both within the research enterprise
 and in the broader public discourse; and the data needed to identify
 retracted research has become available, particularly from the
 Retraction Watch Database. 
- <br/> <br/>
+
+
+
 The goal of the Reducing the Inadvertent
 Spread of Retracted Science: Shaping a Research and Implementation
 Agenda (RISRS) project is to develop an actionable agenda for reducing
@@ -96,7 +99,9 @@ further develop or refine these recommendations; present about
 retraction and related issues at professional and academic meetings;
 take on an implementation or policy project; or outline further research
 to be conducted.
- <br/>
+
+
+
 **Recommendations**
 1. Prevent retractions from polluting the literature through the public availability of high- quality, consistent information about retractions.
 2. Make retraction information easy to find and use by using clear and consistent display standards.
