@@ -7,12 +7,12 @@ permalink: /projects/risrs2020/whitepaper
 Version 2 is being circulated via the F1000Research Science Policy Research gateway to maximize the feedback we receive. 
 
 The proposed schedule for ongoing feedback is:
-Mar 14 Version 2 circulated to stakeholders 
-Mar 29 Deadline for comments, suggestions
-Apr 12 Version 3 circulated to stakeholders for last look 
-Apr 26 Deadline for comments, suggestions
-May 3 White Paper completed
-
+Mar 14 Version 2 circulated to stakeholders <br/>
+Mar 29 Deadline for comments, suggestions <br/>
+Apr 12 Version 3 circulated to stakeholders for last look  <br/>
+Apr 26 Deadline for comments, suggestions <br/>
+May 3 White Paper completed <br/>
+ <br/>
 We look forward to your feedback to help shape the scope of the recommendations!
 Comments can be sent by email to jodi@illinois.edu or added to the [Google Doc](https://docs.google.com/document/d/1wzwPCnQqgWFurxT1thRmmzYo32ePF1cqDc3_zE7iTr4/edit?ouid=102626021933915923776&usp=docs_home&ths=true)
 A Word document is available on request to jodi@illinois.edu.
