@@ -7,6 +7,7 @@ Version 2 of the whitepaper is currently available for comment, in [PDF](https:/
 
  <br/>
 We look forward to your feedback to help shape the scope of the recommendations, which are:
+
 1. Prevent retractions from polluting the literature through the public availability of high- quality, consistent information about retractions.
 2. Make retraction information easy to find and use by using clear and consistent display standards.
 3. Recommend a taxonomy of retraction categories/classifications and corresponding retraction metadata that can be adopted by all stakeholders.
