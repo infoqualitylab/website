@@ -3,11 +3,9 @@ layout: risrs2020
 title: Draft Whitepaper
 permalink: /projects/risrs2020/whitepaper
 ---
-
-Version 2 of the whitepaper is currently available for comment. PDF and Word versions are available; itt is also being circulated via the F1000Research Science Policy Research gateway to maximize the feedback we receive. 
-
-Comments can be made directly in the [Google Doc](https://docs.google.com/document/d/1wzwPCnQqgWFurxT1thRmmzYo32ePF1cqDc3_zE7iTr4/edit?ouid=102626021933915923776&usp=docs_home&ths=true), or sent  by email to jodi@illinois.edu. 
-
+Version 2 of the whitepaper is currently available for comment. [PDF]([https://github.com/infoqualitylab/website/blob/gh-pages/images/risrs2020/risrs-draft-v2.pdf) and [Word Doc]([https://github.com/infoqualitylab/website/blob/gh-pages/images/risrs2020/risrs-draft-v2.docx) versions are available here. It is also being circulated via the F1000Research Science Policy Research gateway to maximize the feedback we receive. 
+ <br/>
+Comments can be made directly in the [Google Doc version](https://docs.google.com/document/d/1wzwPCnQqgWFurxT1thRmmzYo32ePF1cqDc3_zE7iTr4/edit?ouid=102626021933915923776&usp=docs_home&ths=true), or sent by email to jodi@illinois.edu. 
  <br/>
 The proposed schedule for ongoing feedback is: <br/>
 Mar 14 Version 2 circulated to stakeholders <br/>
