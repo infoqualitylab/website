@@ -5,13 +5,6 @@ permalink: /projects/risrs2020/whitepaper
 ---
 Version 2 of the whitepaper is currently available for comment, in [PDF](https://github.com/infoqualitylab/website/blob/gh-pages/images/risrs2020/risrs-draft-v2.pdf) and [Word Doc](https://github.com/infoqualitylab/website/blob/gh-pages/images/risrs2020/risrs-draft-v2.docx) and [Google Doc](https://docs.google.com/document/d/1wzwPCnQqgWFurxT1thRmmzYo32ePF1cqDc3_zE7iTr4/edit?ouid=102626021933915923776&usp=docs_home&ths=true) versions. Comments can be made directly in the Google Doc or sent by email to jodi@illinois.edu.
 
-
-The proposed schedule for ongoing feedback is: <br/>
-Mar 14 Version 2 circulated to stakeholders <br/>
-Mar 29 Deadline for comments, suggestions <br/>
-Apr 12 Version 3 circulated to stakeholders for last look  <br/>
-Apr 26 Deadline for comments, suggestions <br/>
-May 3 White Paper completed <br/>
  <br/>
 We look forward to your feedback to help shape the scope of the recommendations, which are:
 1. Prevent retractions from polluting the literature through the public availability of high- quality, consistent information about retractions.
@@ -19,6 +12,13 @@ We look forward to your feedback to help shape the scope of the recommendations,
 3. Recommend a taxonomy of retraction categories/classifications and corresponding retraction metadata that can be adopted by all stakeholders.
 4. Develop best practices for coordinating the retraction process.
 5. Educate stakeholders about retraction and pre- and post-publication stewardship of the scholarly record.
+
+The proposed schedule for ongoing feedback is: <br/>
+Mar 14 Version 2 circulated to stakeholders <br/>
+Mar 29 Deadline for comments, suggestions <br/>
+Apr 12 Version 3 circulated to stakeholders for last look  <br/>
+Apr 26 Deadline for comments, suggestions <br/>
+May 3 White Paper completed <br/>
 
 The whitepaper is also being circulated via the F1000Research Science Policy Research gateway to maximize the feedback we receive.
 
