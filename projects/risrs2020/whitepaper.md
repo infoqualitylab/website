@@ -5,19 +5,19 @@ permalink: /projects/risrs2020/whitepaper
 ---
 
 Version 2 is being circulated via the F1000Research Science Policy Research gateway to maximize the feedback we receive. 
-
-The proposed schedule for ongoing feedback is:
+ <br/>
+The proposed schedule for ongoing feedback is: <br/>
 Mar 14 Version 2 circulated to stakeholders <br/>
 Mar 29 Deadline for comments, suggestions <br/>
 Apr 12 Version 3 circulated to stakeholders for last look  <br/>
 Apr 26 Deadline for comments, suggestions <br/>
 May 3 White Paper completed <br/>
  <br/>
-We look forward to your feedback to help shape the scope of the recommendations!
-Comments can be sent by email to jodi@illinois.edu or added to the [Google Doc](https://docs.google.com/document/d/1wzwPCnQqgWFurxT1thRmmzYo32ePF1cqDc3_zE7iTr4/edit?ouid=102626021933915923776&usp=docs_home&ths=true)
-A Word document is available on request to jodi@illinois.edu.
+We look forward to your feedback to help shape the scope of the recommendations! <br/>
+Comments can be sent by email to jodi@illinois.edu or added to the [Google Doc](https://docs.google.com/document/d/1wzwPCnQqgWFurxT1thRmmzYo32ePF1cqDc3_zE7iTr4/edit?ouid=102626021933915923776&usp=docs_home&ths=true) <br/>
+A Word document is available on request to jodi@illinois.edu. <br/>
 
-
+ <br/>
 
 **EXECUTIVE SUMMARY**
 Retraction is a mechanism for alerting readers to unreliable material,
@@ -53,7 +53,7 @@ scientific and scholarly information both within the research enterprise
 and in the broader public discourse; and the data needed to identify
 retracted research has become available, particularly from the
 Retraction Watch Database. 
-
+ <br/>
 The goal of the Reducing the Inadvertent
 Spread of Retracted Science: Shaping a Research and Implementation
 Agenda (RISRS) project is to develop an actionable agenda for reducing
@@ -86,7 +86,7 @@ further develop or refine these recommendations; present about
 retraction and related issues at professional and academic meetings;
 take on an implementation or policy project; or outline further research
 to be conducted.
-
+ <br/>
 **Recommendations**
 1. Prevent retractions from polluting the literature through the public availability of high- quality, consistent information about retractions.
 2. Make retraction information easy to find and use by using clear and consistent display standards.
