@@ -4,7 +4,10 @@ title: Draft Whitepaper
 permalink: /projects/risrs2020/whitepaper
 ---
 
-Version 2 is being circulated via the F1000Research Science Policy Research gateway to maximize the feedback we receive. 
+Version 2 of the whitepaper is being circulated via the F1000Research Science Policy Research gateway to maximize the feedback we receive. 
+
+Comments can be made directly in the [Google Doc](https://docs.google.com/document/d/1wzwPCnQqgWFurxT1thRmmzYo32ePF1cqDc3_zE7iTr4/edit?ouid=102626021933915923776&usp=docs_home&ths=true) <br/>, or sent  by email to jodi@illinois.edu. 
+
  <br/>
 The proposed schedule for ongoing feedback is: <br/>
 Mar 14 Version 2 circulated to stakeholders <br/>
@@ -14,8 +17,6 @@ Apr 26 Deadline for comments, suggestions <br/>
 May 3 White Paper completed <br/>
  <br/>
 We look forward to your feedback to help shape the scope of the recommendations! <br/>
-Comments can be sent by email to jodi@illinois.edu or added to the [Google Doc](https://docs.google.com/document/d/1wzwPCnQqgWFurxT1thRmmzYo32ePF1cqDc3_zE7iTr4/edit?ouid=102626021933915923776&usp=docs_home&ths=true) <br/>
-A Word document is available on request to jodi@illinois.edu. <br/>
 
  <br/>
 
