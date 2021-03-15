@@ -5,7 +5,7 @@ permalink: /projects/risrs2020/whitepaper
 ---
 Version 2 of the whitepaper is currently available for comment, in [PDF](https://github.com/infoqualitylab/website/blob/gh-pages/images/risrs2020/risrs-draft-v2.pdf) and [Word Doc](https://github.com/infoqualitylab/website/blob/gh-pages/images/risrs2020/risrs-draft-v2.docx) and [Google Doc](https://docs.google.com/document/d/1wzwPCnQqgWFurxT1thRmmzYo32ePF1cqDc3_zE7iTr4/edit?ouid=102626021933915923776&usp=docs_home&ths=true) versions. Comments can be made directly in the Google Doc or sent by email to jodi@illinois.edu.
 
-We look forward to your feedback to help shape the scope of the recommendations, which are:
+We look forward to your feedback to help shape the white paper, especially its recommendation, which are:
 
 1. Prevent retractions from polluting the literature through the public availability of high- quality, consistent information about retractions.
 2. Make retraction information easy to find and use by using clear and consistent display standards.
