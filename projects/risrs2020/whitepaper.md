@@ -20,7 +20,8 @@ We look forward to your feedback to help shape the scope of the recommendations!
 
  <br/>
 
-**Recommendations**
+**Recommendations** <br/>
+ <br/>
 1. Prevent retractions from polluting the literature through the public availability of high- quality, consistent information about retractions.
 2. Make retraction information easy to find and use by using clear and consistent display standards.
 3. Recommend a taxonomy of retraction categories/classifications and corresponding retraction metadata that can be adopted by all stakeholders.
@@ -29,7 +30,8 @@ We look forward to your feedback to help shape the scope of the recommendations!
 
  <br/>
  
-**EXECUTIVE SUMMARY**
+**EXECUTIVE SUMMARY** <br/>
+ <br/>
 Retraction is a mechanism for alerting readers to unreliable material,
 effectively removing from the published scientific and scholarly record
 articles that are deemed to be unreliable or seriously flawed whether
