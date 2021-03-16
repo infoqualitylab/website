@@ -3,7 +3,12 @@ layout: risrs2020
 title: Draft Whitepaper
 permalink: /projects/risrs2020/whitepaper
 ---
-Version 2 of the whitepaper is currently available for comment, in [PDF](https://github.com/infoqualitylab/website/blob/gh-pages/images/risrs2020/risrs-draft-v2.pdf) and [Word Doc](https://github.com/infoqualitylab/website/blob/gh-pages/images/risrs2020/risrs-draft-v2.docx) and [Google Doc](https://docs.google.com/document/d/1wzwPCnQqgWFurxT1thRmmzYo32ePF1cqDc3_zE7iTr4/edit?ouid=102626021933915923776&usp=docs_home&ths=true) versions. Comments can be made directly in the Google Doc or sent by email to jodi@illinois.edu.
+The whitepaper is currently available for comment. It is being circulated as an F1000Research Document:
+[Schneider J, Woods ND, Proescholdt R, Fu Y, and the RISRS Team. Reducing the inadvertent spread of retracted science: Shaping a research and implementation agenda [version 1; not peer reviewed]. *F1000Research* 2021, 10:211 (document) (doi: 10.7490/f1000research.1118522.1)](http://doi.org/10.7490/f1000research.1118522.1)
+
+Additional [PDF](https://github.com/infoqualitylab/website/blob/gh-pages/images/risrs2020/risrs-draft-v2.pdf) and [Word Doc](https://github.com/infoqualitylab/website/blob/gh-pages/images/risrs2020/risrs-draft-v2.docx) and [Google Doc](https://docs.google.com/document/d/1wzwPCnQqgWFurxT1thRmmzYo32ePF1cqDc3_zE7iTr4/edit?ouid=102626021933915923776&usp=docs_home&ths=true) versions are available. 
+
+Comments can be made directly in the Google Doc or sent by email to jodi@illinois.edu.
 
 We look forward to your feedback to help shape the white paper, especially its recommendation, which are:
 
