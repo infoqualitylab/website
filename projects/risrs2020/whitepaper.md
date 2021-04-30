@@ -1,9 +1,9 @@
 ---
 layout: risrs2020
-title: Draft Whitepaper
+title: Draft Recommendations
 permalink: /projects/risrs2020/whitepaper
 ---
-The whitepaper is currently available for comment. It is being circulated as an F1000Research Document (last updated April 27, 2021):
+The draft recommendations are currently available for comment. It is being circulated as an F1000Research Document (last updated April 27, 2021):
 [Schneider J, Woods ND, Proescholdt R et al. Reducing the inadvertent spread of retracted science: Shaping a research and implementation agenda [not peer reviewed]. F1000Research 2021, 10:329 (document)(https://doi.org/10.7490/f1000research.1118546.1)][https://doi.org/10.7490/f1000research.1118546.1]
 
 Additional [PDF](https://github.com/infoqualitylab/website/blob/gh-pages/images/risrs2020/risrs-draft-v3.pdf) and [Word Doc](https://github.com/infoqualitylab/website/blob/gh-pages/images/risrs2020/risrs-draft-v3.docx) and [Google Doc](https://docs.google.com/document/d/1wzwPCnQqgWFurxT1thRmmzYo32ePF1cqDc3_zE7iTr4/edit?ouid=102626021933915923776&usp=docs_home&ths=true) versions are available. 
