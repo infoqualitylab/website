@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Topics"
+permalink: /events/disco2021/topics
+---
 ## Topics
 -	Fact checking and knowledge updates for scholarly publishing, scholarly databases, and expert knowledge
 -	“Living” documents and innovation in publishing
