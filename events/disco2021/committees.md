@@ -15,3 +15,17 @@
 [Bolin Hua](https://www.im.pku.edu.cn/szll/xxxtyjs/hbl/index.htm) is an assistant professor of Department of Information Management at Peking University, China. He aims to extract fine-grained knowledge from academic papers by text mining, making it possible to change the way  knowledge is organized and to develop automatic evaluation methods assessing a paper's originality.
 
 [Yuanxi Fu](https://yuanxifu.site) is a doctoral student at the School of Information Sciences at the University of Illinois at Urbana-Champaign in May 2021. She holds a BS in chemistry from Nanjing University in China and a PhD in chemistry from University of Illinois at Urbana-Champaign. Her research focuses on argumentation in science.
+
+### Program Committee
+Akiko Aizawa
+Bob Allen
+Sören Auer
+Christian Bölling
+Florian Boudin
+Joel Chan
+Tim Clark
+Jennifer D'Souza
+Nancy Green
+Hermann Kroll
+Thomas Stoeger
+(will update their affilication)
