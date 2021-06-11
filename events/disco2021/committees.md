@@ -18,14 +18,25 @@
 
 ### Program Committee
 Akiko Aizawa
+
 Bob Allen
+
 Sören Auer
+
 Christian Bölling
+
 Florian Boudin
+
 Joel Chan
+
 Tim Clark
+
 Jennifer D'Souza
+
 Nancy Green
+
 Hermann Kroll
+
 Thomas Stoeger
+
 (will update their affilication)
