@@ -17,26 +17,25 @@
 [Yuanxi Fu](https://yuanxifu.site) is a doctoral student at the School of Information Sciences at the University of Illinois at Urbana-Champaign in May 2021. She holds a BS in chemistry from Nanjing University in China and a PhD in chemistry from University of Illinois at Urbana-Champaign. Her research focuses on argumentation in science.
 
 ### Program Committee
-Akiko Aizawa
+Akiko Aizawa, National Institute of Informatics, Japan
 
-Bob Allen
+[Bob Allen](http://boballen.info)
 
-Sören Auer
+[Sören Auer](https://www.tib.eu/en/research-development/data-science-digital-libraries/staff/soeren-auer), Leibniz Information Centre for Science and Technology University Library (TIB), Germany
 
-Christian Bölling
+Christian Bölling, Natural History Museum, Berlin, Leibniz Institute for Evolution and Biodiversity Science, Germany
 
-Florian Boudin
+[Florian Boudin](https://boudinfl.github.io/), University of Nantes, France
 
-Joel Chan
+[Joel Chan](http://joelchan.me/), University of Maryland, USA
 
-Tim Clark
+[Tim Clark](https://datascience.virginia.edu/people/tim-clark), University of Virginia, USA
 
-Jennifer D'Souza
+[Jennifer D'Souza](https://www.tib.eu/en/research-development/data-science-digital-libraries/staff/jennifer-dsouza), Leibniz Information Centre for Science and Technology University Library (TIB), Germany
 
-Nancy Green
+[Nancy Green](https://compsci.uncg.edu/faculty/green/), University of North Carolina Greensboro, USA
 
-Hermann Kroll
+[Hermann Kroll](http://www.ifis.cs.tu-bs.de/staff/hermann-kroll), Technical University of Braunschweig, Germany
 
-Thomas Stoeger
+[Thomas Stoeger](https://amaral.northwestern.edu/people/stoeger/), Northwestern University, USA
 
-(will update their affilication)
