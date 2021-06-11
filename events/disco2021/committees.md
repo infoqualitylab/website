@@ -1,5 +1,5 @@
 ---
-layout: disco2021
+layout: page
 title: Committees
 permalink: /events/disco2021/committees
 ---
