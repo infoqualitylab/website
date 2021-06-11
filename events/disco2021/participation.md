@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Participation"
+permalink: /events/disco2021/participation
+---
 ## Participation
 
 ### Important Dates
