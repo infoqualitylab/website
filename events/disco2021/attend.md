@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Venue
-permalink: /events/disco2021/venue
+title: Attend
+permalink: /events/disco2021/attend
 ---
 ### Online Location
 Online. The workshop will span timezones with two sessions, one convenient to North America/Europe (Thursday September 30th, 2021) and another convenient to Asia/Europe (likely Friday October 1, 2021)
