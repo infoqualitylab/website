@@ -3,8 +3,6 @@ layout: disco2021
 title: "Committees"
 permalink: /events/disco2021/committees
 ---
-## Committees
-
 ### Organizing Committee
 
 [Jodi Schneider](http://jodischneider.com/jodi.html) is Assistant Professor at the School of Information Sciences, University of Illinois at Urbana-Champaign where she runs the Information Quality Lab. She studies the science of science through the lens of arguments, evidence, and persuasion with a special interest in controversies in science. Her recent work has focused on systematic review automation, semantic publication, and the citation of retracted papers.

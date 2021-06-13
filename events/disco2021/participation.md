@@ -3,8 +3,6 @@ layout: disco2021
 title: "Participation"
 permalink: /events/disco2021/participation
 ---
-## Participation
-
 ### Important Dates
 - Paper submission: Monday July 12, 2021, Anywhere on Earth time (AOE)
 - Camera-ready deadline: Tuesday August 31st, 2021, Anywhere on Earth time (AOE)
