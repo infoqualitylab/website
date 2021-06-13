@@ -1,6 +1,6 @@
 ---
 layout: disco2021
-title: "Digital Infrastructures for Scholarly Content Objects at JCDL2021"
+title: Digital Infrastructures for Scholarly Content Objects at JCDL2021
 permalink: /events/disco2021/
 ---
 The goal of the Digital Infrastructures for Scholarly Content Objects (DISCO) workshop at [JCDL 2021](https://2021.jcdl.org) is to raise awareness of quality issues and re-use challenges in digital infrastructures for scholarly content, and collect potential solutions among an audience of diverse expertise. 

@@ -1,6 +1,6 @@
 ---
 layout: disco2021
-title: "Participation"
+title: Call for Participation
 permalink: /events/disco2021/participation
 ---
 ### Important Dates
