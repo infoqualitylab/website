@@ -21,14 +21,14 @@ permalink: /events/disco2021/committees
 
 [Yuanxi Fu](https://yuanxifu.site) is a doctoral student at the School of Information Sciences at the University of Illinois at Urbana-Champaign in May 2021. She holds a BS in chemistry from Nanjing University in China and a PhD in chemistry from University of Illinois at Urbana-Champaign. Her research focuses on argumentation in science.
 
-### Program Committee
-Akiko Aizawa, National Institute of Informatics, Japan
+### Program Committee (confirmed)
+[Akiko Aizawa](http://research.nii.ac.jp/~akiko/index_e.html), National Institute of Informatics, Japan
 
 [Bob Allen](http://boballen.info)
 
 [Sören Auer](https://www.tib.eu/en/research-development/data-science-digital-libraries/staff/soeren-auer), Leibniz Information Centre for Science and Technology University Library (TIB), Germany
 
-Christian Bölling, Natural History Museum, Berlin, Leibniz Institute for Evolution and Biodiversity Science, Germany
+[Christian Bölling](https://www.museumfuernaturkunde.berlin/en/about/team/christian.boelling), Natural History Museum, Berlin, Leibniz Institute for Evolution and Biodiversity Science, Germany
 
 [Florian Boudin](https://boudinfl.github.io/), University of Nantes, France
 
