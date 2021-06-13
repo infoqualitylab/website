@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: disco2021
 title: "Digital Infrastructures for Scholarly Content Objects at JCDL2021"
 permalink: /events/disco2021
 ---

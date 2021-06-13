@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: disco2021
 title: "Participation"
 permalink: /events/disco2021/participation
 ---
