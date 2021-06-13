@@ -12,3 +12,14 @@ As digital libraries make the dissemination of research publications easier, the
 
 ## Intended Audience
 DISCO's expected audience includes digital publishing and digital library practitioners and researchers. The workshop may be of particular interest to  researchers in semantic publishing, information quality, provenance, trust, workflows, text mining, database curation, and knowledge graphs. Users of digital infrastructures may also contribute, particularly domain researchers in evidence synthesis communities, innovators in open science, robustness and reproducibility, and those helping researchers organize, find, and use scholary literature.
+
+## Topics of Interest
+-	Fact checking and knowledge updates for scholarly publishing, scholarly databases, and expert knowledge
+-	“Living” documents and innovation in publishing
+-	Semantic publishing, metadata, ontologies
+-	Scholarly database curation, scholarly knowledge graphs
+-	Argumentation, identifying and tracing dependencies between papers
+-	Infrastructure for robustness and reproducibility (e.g.,  multiverse analyses, data storage and citation, etc.)
+-	Infrastructure for knowledge and evidence synthesis, systematic review, question answering on expert knowledge
+-	Annotation and integration of scholarly content
+-	Quality assurance and quality assessment of automatic knowledge mining processes, recovering from retracted, outdated, or inconsistent findings
