@@ -7,10 +7,9 @@ permalink: /events/disco2021/participation
 
 ### Important Dates
 - Paper submission: Monday July 12, 2021, Anywhere on Earth time (AOE)
-- Notification: Tuesday August 17, 2021
 - Camera-ready deadline: Tuesday August 31st, 2021, Anywhere on Earth time (AOE)
-- Workshop: September 30th, 2021
+- Workshop: Thursday September 30th, 2021, online. The workshop will span timezones with two sessions, one convenient to North America/Europe and another convenient to Asia/Europe.
 
 
 ### Submission Instructions
-to-do
+TBD
