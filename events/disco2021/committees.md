@@ -1,6 +1,6 @@
 ---
 layout: disco2021
-title: Organizing & Program Committees
+title: Committees
 permalink: /events/disco2021/committees
 ---
 ### Organizing Committee
