@@ -8,4 +8,4 @@ Online. The workshop will span timezones with two sessions, one convenient to No
 
 ### Registration
 Registration will be coordinated in conjunction with the [2021 ACM/IEEE Joint Conference on Digital Libraries](https://2021.jcdl.org)
-  
+Low-cost registration for workshop-only participants will be available.
