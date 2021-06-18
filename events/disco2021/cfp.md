@@ -16,8 +16,11 @@ to be anonymized. At least 2 Program Committee members will review each
 submission.
 
 The maximum length of submissions (including bibliography) should be as
-follows: Full paper submissions: 10 pages Position paper submissions: 5
-pages
+follows: 
+
+Full paper submissions: 10 pages 
+
+Position paper submissions: 5 pages
 
 All submissions must be in English, in PDF format. Papers should follow
 two-column CEUR-ART paper formatting guidelines (see,
