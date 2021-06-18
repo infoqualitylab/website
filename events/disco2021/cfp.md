@@ -36,8 +36,7 @@ to be anonymized. At least 2 Program Committee members will review each
 submission.
 
 The maximum length of submissions (including bibliography) should be as
-follows: 
-
+follows:  
 Full paper submissions: 10 pages  
 
 Position paper submissions: 5 pages
