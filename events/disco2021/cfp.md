@@ -39,7 +39,6 @@ The maximum length of submissions (including bibliography) should be as
 follows: 
 
 Full paper submissions: 10 pages 
-
 Position paper submissions: 5 pages
 
 All submissions must be in English, in PDF format. Papers should follow
