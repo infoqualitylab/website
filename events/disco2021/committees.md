@@ -42,3 +42,8 @@ permalink: /events/disco2021/committees
 
 [Thomas Stoeger](https://amaral.northwestern.edu/people/stoeger/), Northwestern University, USA
 
+[Markus Stocker](http://markusstocker.com/), Leibniz Information Centre for Science and Technology, Germany
+
+[Edward Fox](https://fox.cs.vt.edu/foxinfo.html), Virgnia Tech, USA
+
+[Allard Oelen](https://www.tib.eu/en/research-development/data-science-digital-libraries/staff/allard-oelen),L3S Research Center, Germany
