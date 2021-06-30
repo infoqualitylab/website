@@ -30,20 +30,26 @@ permalink: /events/disco2021/committees
 
 [Florian Boudin](https://boudinfl.github.io/), University of Nantes, France
 
+[Gully Burns](https://www.linkedin.com/in/gullyaburns/), Chan Zuckerberg Initiative, USA
+
 [Joel Chan](http://joelchan.me/), University of Maryland, USA
 
 [Tim Clark](https://datascience.virginia.edu/people/tim-clark), University of Virginia, USA
 
 [Jennifer D'Souza](https://www.tib.eu/en/research-development/data-science-digital-libraries/staff/jennifer-dsouza), Leibniz Information Centre for Science and Technology University Library (TIB), Germany
 
+[Edward Fox](https://fox.cs.vt.edu/foxinfo.html), Virgnia Tech, USA
+
 [Nancy Green](https://compsci.uncg.edu/faculty/green/), University of North Carolina Greensboro, USA
 
 [Hermann Kroll](http://www.ifis.cs.tu-bs.de/staff/hermann-kroll), Technical University of Braunschweig, Germany
+
+[Allard Oelen](https://www.tib.eu/en/research-development/data-science-digital-libraries/staff/allard-oelen),L3S Research Center, Germany
+
+[Halie Rando](https://greenelab.com/members/halie-rando.html), University of Colorado Anschutz Medical Campus, USA
 
 [Thomas Stoeger](https://amaral.northwestern.edu/people/stoeger/), Northwestern University, USA
 
 [Markus Stocker](http://markusstocker.com/), Leibniz Information Centre for Science and Technology, Germany
 
-[Edward Fox](https://fox.cs.vt.edu/foxinfo.html), Virgnia Tech, USA
 
-[Allard Oelen](https://www.tib.eu/en/research-development/data-science-digital-libraries/staff/allard-oelen),L3S Research Center, Germany
