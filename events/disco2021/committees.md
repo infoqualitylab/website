@@ -44,7 +44,7 @@ permalink: /events/disco2021/committees
 
 [Hermann Kroll](http://www.ifis.cs.tu-bs.de/staff/hermann-kroll), Technical University of Braunschweig, Germany
 
-[Allard Oelen](https://www.tib.eu/en/research-development/data-science-digital-libraries/staff/allard-oelen),L3S Research Center, Germany
+[Allard Oelen](https://www.tib.eu/en/research-development/data-science-digital-libraries/staff/allard-oelen), L3S Research Center, Germany
 
 [Halie Rando](https://greenelab.com/members/halie-rando.html), University of Colorado Anschutz Medical Campus, USA
 
