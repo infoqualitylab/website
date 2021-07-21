@@ -53,3 +53,6 @@ co-authors. Accepted papers will be published in CEUR Workshop
 Proceedings [http://ceur-ws.org/](http://ceur-ws.org/) as open access under a Creative
 Commons Attribution (CC-BY 4.0) license. Authors of accepted papers will
 need to sign a license agreement at the camera-ready stage.
+
+In addition to the CEUR proceedings, we expect to solicit revised and extended articles 
+for a special issue in a journal.
