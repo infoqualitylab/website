@@ -13,7 +13,7 @@ interesting starting points for discussion.
 
 ### Important Dates
 - Paper submission: ~~Monday July 19, 2021~~ Extended: Monday August 2, 2021, Anywhere on Earth time (AOE)
-- Camera-ready deadline: Tuesday September 7th, 2021, Anywhere on Earth time (AOE)
+- Camera-ready deadline: Tuesday September 14th, 2021, Anywhere on Earth time (AOE)
 - Workshop: Thursday September 30th, 2021 & Friday October 1, 2021, online in conjunction with [JCDL 2021](https://2021.jcdl.org).
 
 
