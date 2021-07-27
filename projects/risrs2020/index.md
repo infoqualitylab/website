@@ -17,6 +17,7 @@ This project will bring together diverse stakeholders in the academic publishing
 * Yoss Arianlou (undergraduate researcher) contributes to the literature review and is helping at the workshop.
 * Vivien Yip (undergraduate researcher) contributes to the literature review.
 * [Halle Burns](https://guides.library.unlv.edu/prf.php?account_id=223815) is helping at the workshop.
+* Katherine Howell contributes to the literature review.
 
 **Advisory Board**
 * [Daniele Fanelli](http://danielefanelli.com), PhD, Fellow in Quantitative Methodology, [Department of Methodology](https://www.lse.ac.uk/methodology/), London School of Economics and Political Science
