@@ -7,7 +7,7 @@ permalink: /projects/risrs2020/whitepaper
 Final recommendations from the RISRS project:
 [Jodi Schneider, Nathan D. Woods, Randi Proescholdt, Yuanxi Fu, and The RISRS Team. Recommendations from the Reducing the Inadvertent Spread of Retracted Science: Shaping a Research and Implementation Agenda Project.](http://doi.org/10.31222/osf.io/ms579) July 2021. MetaArXiv Preprints.
 
-To provide feedback, suggest a collaboration, or alert us to reelvant work for the [bibliography](https://infoqualitylab.org/projects/risrs2020/bibliography/), email jodi@illinois.edu.
+To provide feedback, suggest a collaboration, or alert us to relevant work for our ongoing [bibliography of empirical research related to retraction](https://infoqualitylab.org/projects/risrs2020/bibliography/), email jodi@illinois.edu.
  
 **EXECUTIVE SUMMARY**
 
