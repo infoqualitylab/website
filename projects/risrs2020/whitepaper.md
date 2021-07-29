@@ -7,8 +7,6 @@ permalink: /projects/risrs2020/whitepaper
 Final recommendations from the RISRS project:
 [Jodi Schneider, Nathan D. Woods, Randi Proescholdt, Yuanxi Fu, and The RISRS Team. Recommendations from the Reducing the Inadvertent Spread of Retracted Science: Shaping a Research and Implementation Agenda Project.](http://doi.org/10.31222/osf.io/ms579) July 2021. MetaArXiv Preprints.
 
-To provide feedback, suggest a collaboration, or alert us to relevant work for our ongoing [bibliography of empirical research related to retraction](https://infoqualitylab.org/projects/risrs2020/bibliography/), email jodi@illinois.edu.
- 
 **Recommendations**
 1. Develop a systematic cross-industry approach to ensure the public availability of consistent, standardized, interoperable, and timely information about retractions.
 
@@ -31,3 +29,6 @@ The RISRS process included an exploratory environment scan, a scoping review of 
 The RISRS team solicited feedback from presentations to NISOPlus, the Society for Scholarly Publishing, and the European Association of Science Editors. Implementation actions have started through a COPE task force on taxonomy and discussions about a proposed National Information Standards Organization (NISO) Work Item. We welcome your feedback via the project website https://infoqualitylab.org/projects/risrs2020/ or by email to jodi@illinois.edu. We encourage you to disseminate these recommendations and to envision how you, in your role, and in collaborative partnerships, can make a difference. For instance, you might help form a professional working group to further develop or refine these recommendations; present about retraction and related issues at professional and academic meetings; take on an implementation or policy project; or outline further research to be conducted. 
 
 
+- - - 
+To provide feedback, suggest a collaboration, or alert us to relevant work for our ongoing [bibliography of empirical research related to retraction](https://infoqualitylab.org/projects/risrs2020/bibliography/), email jodi@illinois.edu.
+ 
