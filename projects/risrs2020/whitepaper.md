@@ -9,6 +9,15 @@ Final recommendations from the RISRS project:
 
 To provide feedback, suggest a collaboration, or alert us to relevant work for our ongoing [bibliography of empirical research related to retraction](https://infoqualitylab.org/projects/risrs2020/bibliography/), email jodi@illinois.edu.
  
+**Recommendations**
+1. Develop a systematic cross-industry approach to ensure the public availability of consistent, standardized, interoperable, and timely information about retractions.
+
+2. Recommend a taxonomy of retraction categories/classifications and corresponding retraction metadata that can be adopted by all stakeholders. 
+
+3. Develop best practices for coordinating the retraction process to enable timely, fair, unbiased outcomes. 
+
+4. Educate stakeholders about publication correction processes including retraction and about pre- and post-publication stewardship of the scholarly record.
+ 
 **EXECUTIVE SUMMARY**
 
 Retracted research is published work that is withdrawn, removed, or otherwise invalidated from the scientific and scholarly record. This may occur for many different reasons, which can include error, misconduct, or fraud. Retracting research is intended to stop its continued citation and use, but many retracted papers continue to be used. 
@@ -22,11 +31,3 @@ The RISRS process included an exploratory environment scan, a scoping review of 
 The RISRS team solicited feedback from presentations to NISOPlus, the Society for Scholarly Publishing, and the European Association of Science Editors. Implementation actions have started through a COPE task force on taxonomy and discussions about a proposed National Information Standards Organization (NISO) Work Item. We welcome your feedback via the project website https://infoqualitylab.org/projects/risrs2020/ or by email to jodi@illinois.edu. We encourage you to disseminate these recommendations and to envision how you, in your role, and in collaborative partnerships, can make a difference. For instance, you might help form a professional working group to further develop or refine these recommendations; present about retraction and related issues at professional and academic meetings; take on an implementation or policy project; or outline further research to be conducted. 
 
 
-**Recommendations**
-1. Develop a systematic cross-industry approach to ensure the public availability of consistent, standardized, interoperable, and timely information about retractions.
-
-2. Recommend a taxonomy of retraction categories/classifications and corresponding retraction metadata that can be adopted by all stakeholders. 
-
-3. Develop best practices for coordinating the retraction process to enable timely, fair, unbiased outcomes. 
-
-4. Educate stakeholders about publication correction processes including retraction and about pre- and post-publication stewardship of the scholarly record.
