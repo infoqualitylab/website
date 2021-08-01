@@ -1,13 +1,9 @@
 ---
 layout: risrs2020
-title: Recommendations
+title: Final Recommendations
 permalink: /projects/risrs2020/whitepaper
 ---
 
-Final recommendations from the RISRS project:
-[Jodi Schneider, Nathan D. Woods, Randi Proescholdt, Yuanxi Fu, and The RISRS Team. Recommendations from the Reducing the Inadvertent Spread of Retracted Science: Shaping a Research and Implementation Agenda Project.](http://doi.org/10.31222/osf.io/ms579) July 2021. MetaArXiv Preprints.
-
-**Recommendations**
 1. Develop a systematic cross-industry approach to ensure the public availability of consistent, standardized, interoperable, and timely information about retractions.
 
 2. Recommend a taxonomy of retraction categories/classifications and corresponding retraction metadata that can be adopted by all stakeholders. 
@@ -16,6 +12,14 @@ Final recommendations from the RISRS project:
 
 4. Educate stakeholders about publication correction processes including retraction and about pre- and post-publication stewardship of the scholarly record.
  
+**Citation**
+[Jodi Schneider, Nathan D. Woods, Randi Proescholdt, Yuanxi Fu, and The RISRS Team. Recommendations from the Reducing the Inadvertent Spread of Retracted Science: Shaping a Research and Implementation Agenda Project.](http://doi.org/10.31222/osf.io/ms579) July 2021. MetaArXiv Preprints. http://doi.org/10.31222/osf.io/ms579
+<!-- Additional copy in IDEALS http://hdl.handle.net/2142/110219 -->
+
+**Feedback**
+To provide feedback, suggest a collaboration, or alert us to relevant work for our ongoing [bibliography of empirical research related to retraction](https://infoqualitylab.org/projects/risrs2020/bibliography/), email jodi@illinois.edu.
+
+
 **EXECUTIVE SUMMARY**
 
 Retracted research is published work that is withdrawn, removed, or otherwise invalidated from the scientific and scholarly record. This may occur for many different reasons, which can include error, misconduct, or fraud. Retracting research is intended to stop its continued citation and use, but many retracted papers continue to be used. 
@@ -27,8 +31,4 @@ The goal of the Reducing the Inadvertent Spread of Retracted Science: Shaping a 
 The RISRS process included an exploratory environment scan, a scoping review of empirical literature, and successive rounds of stakeholder consultation, culminating in a three-part online workshop (October 26, November 9, and November 16, 2020) that brought together a diverse body of 70 stakeholders to engage in collaborative problem solving and dialogue. Workshop discussions were seeded by materials derived from stakeholder interviews and short original discussion pieces contributed by stakeholders. The online workshop resulted in a set of recommendations to address the complexities of retracted research throughout the scholarly communications ecosystem. Recommendations were iteratively updated and developed through a series of surveys and drafts as well as at a followup meeting online February 16, 2021.
 
 The RISRS team solicited feedback from presentations to NISOPlus, the Society for Scholarly Publishing, and the European Association of Science Editors. Implementation actions have started through a COPE task force on taxonomy and discussions about a proposed National Information Standards Organization (NISO) Work Item. We welcome your feedback via the project website https://infoqualitylab.org/projects/risrs2020/ or by email to jodi@illinois.edu. We encourage you to disseminate these recommendations and to envision how you, in your role, and in collaborative partnerships, can make a difference. For instance, you might help form a professional working group to further develop or refine these recommendations; present about retraction and related issues at professional and academic meetings; take on an implementation or policy project; or outline further research to be conducted. 
-
-
-- - - 
-To provide feedback, suggest a collaboration, or alert us to relevant work for our ongoing [bibliography of empirical research related to retraction](https://infoqualitylab.org/projects/risrs2020/bibliography/), email jodi@illinois.edu.
  
