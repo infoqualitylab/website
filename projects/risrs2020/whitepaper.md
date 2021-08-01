@@ -13,7 +13,7 @@ permalink: /projects/risrs2020/whitepaper
 4. Educate stakeholders about publication correction processes including retraction and about pre- and post-publication stewardship of the scholarly record.
  
 **Citation**
-[Jodi Schneider, Nathan D. Woods, Randi Proescholdt, Yuanxi Fu, and The RISRS Team. Recommendations from the Reducing the Inadvertent Spread of Retracted Science: Shaping a Research and Implementation Agenda Project.](http://doi.org/10.31222/osf.io/ms579) July 2021. MetaArXiv Preprints. http://doi.org/10.31222/osf.io/ms579
+Jodi Schneider, Nathan D. Woods, Randi Proescholdt, Yuanxi Fu, and The RISRS Team. [Recommendations from the Reducing the Inadvertent Spread of Retracted Science: Shaping a Research and Implementation Agenda Project.](http://doi.org/10.31222/osf.io/ms579) July 2021. MetaArXiv Preprints. http://doi.org/10.31222/osf.io/ms579
 <!-- Additional copy in IDEALS http://hdl.handle.net/2142/110219 -->
 
 **Feedback**
