@@ -11,6 +11,8 @@ permalink: /events/disco2021/program
 
 **What it Boils Down to... The Case for Event Analogies to Combat Complexity in Digital Libraries** Florian Plötzky and Wolf-Tilo Balke.
 
+**Yoked Flows for Direct Representation of Scientific Research** Robert Allen. 
+
 **Open Information Extraction in Digital Libraries: Current Challenges and Open Research Questions** Hermann Kroll, Judy Alchaar and Wolf-Tilo Balke.
 
 **Data Narrations - Using flexible Data Bindings to support the Reproducibility of Claims in Digital Library Objects** Denis Nagel, Till Affeldt and Wolf-Tilo Balke.
