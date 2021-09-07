@@ -3,6 +3,12 @@ layout: disco2021
 title: Program
 permalink: /events/disco2021/program
 ---
+
+### Program
+---
+- Session 1: 30 September 9am-12:15pm US CDT [see your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T09&p1=5158&ah=3&am=15)
+- Session 2: 30 September 6pm-9:15pm US CDT [see your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T18&p1=5158&ah=3&am=15)
+
 ### Accepted Papers
 ---
 
