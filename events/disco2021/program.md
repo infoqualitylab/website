@@ -4,6 +4,7 @@ title: Program
 permalink: /events/disco2021/program
 ---
 ### Accepted Papers
+---
 
 **An Open-Publishing Response to the COVID-19 Infodemic** Halie M. Rando, Simina M. Boca, Lucy D'Agostino McGowan, Daniel S. Himmelstein, Michael P. Robson, Vincent Rubinetti, Ryan Velazquez, Casey S. Greene and Anthony Gitter. 
 
