@@ -22,8 +22,7 @@ permalink: /events/disco2021/program
 |-----------|-----------|-----------|-----------|
 ||Opening remarks|6:00-6:15||
 |Tim Clark|TBA|6:15-7:15||
-|Halie M. Rando, Simina M. Boca, Lucy D'Agostino McGowan, Daniel S. Himmelstein, Michael P. Robson, Vincent Rubinetti, Ryan Velazquez, Casey S. Greene and Anthony Gitter|Open-Publishing Response to the COVID-19 Infodemic
-|7:15-7:45||
+|Halie M. Rando, Simina M. Boca, Lucy D'Agostino McGowan, Daniel S. Himmelstein, Michael P. Robson, Vincent Rubinetti, Ryan Velazquez, Casey S. Greene and Anthony Gitter|Open-Publishing Response to the COVID-19 Infodemic|7:15-7:45||
 |Robert Allen|Yoked Flows for Direct Representation of Scientific Research|7:45-8:15||
 |Anita de Waard|Closing remarks|8:15-8:30||
 
