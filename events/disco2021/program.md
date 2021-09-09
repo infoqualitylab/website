@@ -5,7 +5,7 @@ permalink: /events/disco2021/program
 ---
 
 ---
-**Session 1**: 30 September 9am-12:15pm US CDT [see your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T09&p1=5158&ah=3&am=15)
+**Session 1**: Thursday 30 September 9am-12:15pm US CDT [see your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T09&p1=5158&ah=3&am=15)
 
 |Authors/Speaker|Title|Time (US CDT)|Time Conversion|
 |-----------|-----------|-----------|-----------|
@@ -18,7 +18,7 @@ permalink: /events/disco2021/program
 |Florian Plötzky and Wolf-Tilo Balke|What it Boils Down to... The Case for Event Analogies to Combat Complexity in Digital Libraries|11:40-12:00|[link](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T1140&p1=3919&am=20)|
 |Jodi Schneider|Session 1 closing remarks|12:00-12:15|[link](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T12&p1=3919&am=15)|
 
-**Session 2**: 30 September 6pm-9:15pm US CDT [see your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T18&p1=5158&ah=3&am=15)
+**Session 2**: Thursday 30 September 6pm-9:15pm US CDT [see your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T18&p1=5158&ah=3&am=15)
 
 |Authors/Speaker|Title|Time|Time Conversion|
 |-----------|-----------|-----------|-----------|
