@@ -7,7 +7,7 @@ permalink: /events/disco2021/program
 ---
 **Session 1**: 30 September 9am-12:15pm US CDT [see your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T09&p1=5158&ah=3&am=15)
 
-|Authors/Speaker|Title|Time|Time Conversion|
+|Authors/Speaker|Title|Time (US CDT)|Time Conversion|
 |-----------|-----------|-----------|-----------|
 |Wolf-Tilo Balke|Opening remarks|9:00-9:10|[link](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T09&p1=5158&am=10)|
 |Akiko Aizawa|TBA|9:10-10:10|[link](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T0910&p1=3919&ah=1)|
