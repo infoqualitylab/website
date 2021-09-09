@@ -7,7 +7,7 @@ permalink: /events/disco2021/program
 ---
 **Session 1**: Thursday 30 September 9am-12:15pm US CDT [convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T09&p1=5158&ah=3&am=15)
 
-|Authors/Speaker|Title|Time (US CDT)|Time Conversion|
+|Authors/Speaker|Title|Time (US CDT AM)|Time Conversion|
 |-----------|-----------|-----------|-----------|
 |Wolf-Tilo Balke|Opening remarks|9:00-9:10|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T09&p1=5158&am=10)|
 |Akiko Aizawa|Keynote 1 TBA|9:10-10:10|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T0910&p1=3919&ah=1)|
@@ -20,7 +20,7 @@ permalink: /events/disco2021/program
 
 **Session 2**: Thursday 30 September 6pm-9:15pm US CDT [convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T18&p1=5158&ah=3&am=15)
 
-|Authors/Speaker|Title|Time|Time Conversion|
+|Authors/Speaker|Title|Time (US CDT PM)|Time Conversion|
 |-----------|-----------|-----------|-----------|
 ||Opening remarks|6:00-6:15|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T18&p1=3919&am=15)|
 |Tim Clark|Keynote 2 TBA|6:15-7:15|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T1815&p1=3919&ah=1)|
