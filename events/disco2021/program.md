@@ -20,11 +20,11 @@ permalink: /events/disco2021/program
 **Session 2**: 30 September 6pm-9:15pm US CDT [see your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T18&p1=5158&ah=3&am=15)
 |Authors/Speaker|Title|Time|Time Conversion|
 |-----------|-----------|-----------|-----------|
-||Opening remarks|6:00-6:15||
-|Tim Clark|TBA|6:15-7:15||
-|Halie M. Rando, Simina M. Boca, Lucy D'Agostino McGowan, Daniel S. Himmelstein, Michael P. Robson, Vincent Rubinetti, Ryan Velazquez, Casey S. Greene and Anthony Gitter|Open-Publishing Response to the COVID-19 Infodemic|7:15-7:45||
-|Robert Allen|Yoked Flows for Direct Representation of Scientific Research|7:45-8:15||
-|Anita de Waard|Closing remarks|8:15-8:30||
+||Opening remarks|6:00-6:15|[link](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T18&p1=3919&am=15)|
+|Tim Clark|TBA|6:15-7:15|[link](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T1815&p1=3919&ah=1)|
+|Halie M. Rando, Simina M. Boca, Lucy D'Agostino McGowan, Daniel S. Himmelstein, Michael P. Robson, Vincent Rubinetti, Ryan Velazquez, Casey S. Greene and Anthony Gitter|Open-Publishing Response to the COVID-19 Infodemic|7:15-7:45|[link](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T1915&p1=3919&am=30)|
+|Robert Allen|Yoked Flows for Direct Representation of Scientific Research|7:45-8:15|[link](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T1945&p1=3919&am=30)|
+|Anita de Waard|Closing remarks|8:15-8:30|[link](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T2015&p1=3919&am=15)|
 
 ### Accepted Papers
 ---
