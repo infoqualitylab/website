@@ -12,4 +12,4 @@ Online. The workshop will span timezones with two sessions.
 
 ### Registration
 ---
-Registration for [2021 ACM/IEEE Joint Conference on Digital Libraries](https://2021.jcdl.org) is open now. Registration information can be find on the [JCDL2021 website](https://2021.jcdl.org/registration). Participants can choose to register for **the main conference** (including access to DISCO2021) or **workshop/tutorial only**. Authors of this workshop **are not** required to register as authors.
+Registration for [2021 ACM/IEEE Joint Conference on Digital Libraries](https://2021.jcdl.org) is open now. Registration information can be found on the [JCDL2021 website](https://2021.jcdl.org/registration). Participants can choose to register for **the main conference** (including access to DISCO2021) or **workshop/tutorial only**. Authors of this workshop **are not** required to register as authors.
