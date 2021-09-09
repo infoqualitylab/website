@@ -7,8 +7,8 @@ permalink: /events/disco2021/attend
 ---
 Online. The workshop will span timezones with two sessions.
 
-- Session 1: 30 September 9am-12:15pm US CDT [view your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T09&p1=5158&ah=3&am=15)
-- Session 2: 30 September 6pm-9:15pm US CDT [view your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T18&p1=5158&ah=3&am=15)
+- Session 1: 30 September 9am-12:15pm US CDT [convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T09&p1=5158&ah=3&am=15)
+- Session 2: 30 September 6pm-9:15pm US CDT [convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T18&p1=5158&ah=3&am=15)
 
 ### Registration
 ---

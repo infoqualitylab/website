@@ -4,8 +4,8 @@ title: DISCO2021 - Digital Infrastructures for Scholarly Content Objects at JCDL
 permalink: /events/disco2021/
 ---
 The goal of the Digital Infrastructures for Scholarly Content Objects (DISCO2021) workshop at [JCDL 2021](https://2021.jcdl.org) is to raise awareness of quality issues and re-use challenges in digital infrastructures for scholarly content, and collect potential solutions among an audience of diverse expertise. The workshop will have two sessions.
-- Session 1: 30 September 9am-12:15pm US CDT [see your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T09&p1=5158&ah=3&am=15)
-- Session 2: 30 September 6pm-9:15pm US CDT [see your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T18&p1=5158&ah=3&am=15)
+- Session 1: 30 September 9am-12:15pm US CDT [convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T09&p1=5158&ah=3&am=15)
+- Session 2: 30 September 6pm-9:15pm US CDT [convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T18&p1=5158&ah=3&am=15)
 
 ## Problem Statement
 As digital libraries make the dissemination of research publications
