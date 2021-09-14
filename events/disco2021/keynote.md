@@ -1,6 +1,6 @@
 ---
 layout: disco2021
-title: Committees
+title: Keynote Talks
 permalink: /events/disco2021/keynote
 ---
 ### Natural language processing and information linkage for scholarly digital infrastructures
