@@ -10,7 +10,7 @@ permalink: /events/disco2021/program
 |Authors/Speaker|Title|Time (US CDT AM)|Time Conversion|
 |-----------|-----------|-----------|-----------|
 |Wolf-Tilo Balke|Opening remarks|9:00-9:10|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T09&p1=5158&am=10)|
-|Akiko Aizawa|Keynote I: [Natural language processing and information linkage for scholarly digital infrastructures](https://infoqualitylab.org/events/disco2021/keynote)|9:10-10:10|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T0910&p1=3919&ah=1)|
+|[Akiko Aizawa](http://research.nii.ac.jp/~akiko/index_e.html)|Keynote I: [Natural language processing and information linkage for scholarly digital infrastructures](https://infoqualitylab.org/events/disco2021/keynote)|9:10-10:10|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T0910&p1=3919&ah=1)|
 |Matteo Petrera, Dennis Trautwein, Isabel Beckenbach, Dariush Ehsani, Fabian Müller, Olaf Teschke, Bela Gipp and Moritz Schubotz|zbMATH Open: API Solutions and Research Challenge|10:10-10:40|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T1010&p1=3919&am=30)|
 ||Break|10:40-11:00|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T1040&p1=3919&am=30)|
 |Hermann Kroll, Judy Alchaar and Wolf-Tilo Balke|Open Information Extraction in Digital Libraries: Current Challenges and Open Research Questions|11:00-11:20|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T11&p1=3919&am=20)|
