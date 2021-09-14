@@ -11,7 +11,7 @@ The objective of this talk is to explore how natural language processing can be 
 
 Akiko AIZAWA is a professor at the National Institute of Informatics (NII) and currently serves as the Vice Director-General at NII. Aizawa is also an adjunct professor at the University of Tokyo as well as at the Graduate University of Advanced Studies. Aizawa's research interests include natural language understanding, dialogue systems, text-based content and media processing, and information retrieval. Aizawa has served as an organizer and Program Committee member of related conferences and workshops, and also organized mathematical formula retrieval tasks at NTCIR-10, 11, 12.
 
-
+---
 ### Keynote II: The FAIRSCAPE digital commons framework and Evidence Graphs for reproducibility
 
 We have developed FAIRSCAPE, a reusable cloud-based framework for digital commons environments and reproducibility in biomedicine. This talk will describe the use cases, implementation, and application of the framework.  It will also present the Evidence Graph Ontology, a vocabulary for computational reproducibility, and discuss various  problems and developments relating to FAIRness in science communication.
