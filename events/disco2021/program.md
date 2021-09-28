@@ -27,19 +27,3 @@ permalink: /events/disco2021/program
 |Halie M. Rando, Simina M. Boca, Lucy D'Agostino McGowan, Daniel S. Himmelstein, Michael P. Robson, Vincent Rubinetti, Ryan Velazquez, Casey S. Greene and Anthony Gitter|Open-Publishing Response to the COVID-19 Infodemic|7:15-7:45|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T1915&p1=3919&am=30)|
 |Robert Allen|Yoked Flows for Direct Representation of Scientific Research|7:45-8:15|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T1945&p1=3919&am=30)|
 |Anita de Waard|Closing remarks|8:15-8:30|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T2015&p1=3919&am=15)|
-
-### Accepted Papers
----
-
-- **An Open-Publishing Response to the COVID-19 Infodemic** Halie M. Rando, Simina M. Boca, Lucy D'Agostino McGowan, Daniel S. Himmelstein, Michael P. Robson, Vincent Rubinetti, Ryan Velazquez, Casey S. Greene and Anthony Gitter. 
-
-- **zbMATH Open: API Solutions and Research Challenge** Matteo Petrera, Dennis Trautwein, Isabel Beckenbach, Dariush Ehsani, Fabian Müller, Olaf Teschke, Bela Gipp and Moritz Schubotz.
-
-- **What it Boils Down to... The Case for Event Analogies to Combat Complexity in Digital Libraries** Florian Plötzky and Wolf-Tilo Balke.
-
-- **Yoked Flows for Direct Representation of Scientific Research** Robert Allen. 
-
-- **Open Information Extraction in Digital Libraries: Current Challenges and Open Research Questions** Hermann Kroll, Judy Alchaar and Wolf-Tilo Balke.
-
-- **Data Narrations - Using flexible Data Bindings to support the Reproducibility of Claims in Digital Library Objects** Denis Nagel, Till Affeldt and Wolf-Tilo Balke.
-
