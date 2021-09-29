@@ -3,9 +3,8 @@ layout: risrs2020
 title: Workshop Attendee List
 permalink: /projects/risrs2020/attendees
 ---
-* [Archived information about how to participate](https://infoqualitylab.org/projects/risrs2020/participate)
-* [Archived information about discussion pieces](https://infoqualitylab.org/projects/risrs2020/discuss)
-* [Archived information about logistics](https://infoqualitylab.org/projects/risrs2020/logistics)
+Archived information: [how to participate](https://infoqualitylab.org/projects/risrs2020/participate) |[discussion pieces](https://infoqualitylab.org/projects/risrs2020/discuss)
+* [logistics](https://infoqualitylab.org/projects/risrs2020/logistics)
 
 
   
