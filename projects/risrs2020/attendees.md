@@ -3,7 +3,11 @@ layout: risrs2020
 title: Workshop Attendee List
 permalink: /projects/risrs2020/attendees
 ---
-[Archived information about how to participate] (https://infoqualitylab.org/projects/risrs2020/participate)
+* Archived information about how to participate] (https://infoqualitylab.org/projects/risrs2020/participate)
+* [Archived information about discussion pieces] (https://infoqualitylab.org/projects/risrs2020/discuss)
+* [Archived information about logistics] (https://infoqualitylab.org/projects/risrs2020/logistics)
+
+
   
 * [IJsbrand Jan Aalbersberg](https://www.stm-assoc.org/people/ijsbrand-jan-aalbersberg/), PhD, Chair of the Standards and Technology Executive Committee of STM; SVP Research Integrity, Elsevier
 * Elsa Alvaro, PhD, Director of Academic Engagement, Librarian for Chemistry, and Chemical and Biological Engineering, Nothwestern University Libraries
