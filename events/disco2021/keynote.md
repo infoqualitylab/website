@@ -16,7 +16,7 @@ Akiko AIZAWA is a professor at the National Institute of Informatics (NII) and c
 ### Keynote II: The FAIRSCAPE digital commons framework and Evidence Graphs for reproducibility
 #### Speaker: Tim Clark
 
-FAIR Data (Findable-Accessible-Interoperable-Reusable), and increasingly, FAIR Software, are key concepts being adopted by the scientific community to support validation of results and digital object reuse. FAIR principles and roadmaps provide explicit models of how sharing is to be implemented across the data and software lifecyle, including for publishing.    
+FAIR Data (Findable-Accessible-Interoperable-Reusable), and increasingly, FAIR Software, are key concepts being adopted by the scientific community to support validation of results and digital object reuse. FAIR principles and roadmaps provide explicit models of how sharing is to be implemented across the data and software lifecycle, including for publishing.    
 
 Our team has developed FAIRSCAPE, a reusable cloud-based framework for digital commons environments and reproducibility in biomedicine, to provide support for FAIR methods from the inception of research projects, deep provenance of results, and robust, configurable security for protected health information. Our implementation at the University of Virginia has been used to run thousands of analyses on biomedical datasets. This talk will describe the use cases, implementation, and application of our reusable framework.  
 
