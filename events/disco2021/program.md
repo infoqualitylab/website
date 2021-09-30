@@ -22,7 +22,7 @@ permalink: /events/disco2021/program
 
 |Authors/Speaker|Title|Time (US CDT PM)|Time Conversion|
 |-----------|-----------|-----------|-----------|
-||Opening remarks|6:00-6:15|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T18&p1=3919&am=15)|
+|Anita de Waard|Opening remarks|6:00-6:15|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T18&p1=3919&am=15)|
 |[Tim Clark](https://datascience.virginia.edu/people/tim-clark)|**Keynote II**: [The FAIRSCAPE digital commons framework and Evidence Graphs for reproducibility](https://infoqualitylab.org/events/disco2021/keynote)|6:15-7:15|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T1815&p1=3919&ah=1)|
 |Halie M. Rando, Simina M. Boca, Lucy D'Agostino McGowan, Daniel S. Himmelstein, Michael P. Robson, Vincent Rubinetti, Ryan Velazquez, Casey S. Greene and Anthony Gitter|[Open-Publishing Response to the COVID-19 Infodemic](http://infoqualitylab.web.illinois.edu/lab/temp/paper-2.pdf)|7:15-7:45|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T1915&p1=3919&am=30)|
 |Robert Allen|[Yoked Flows for Direct Representation of Scientific Research](http://infoqualitylab.web.illinois.edu/lab/temp/paper-3.pdf)|7:45-8:15|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T1945&p1=3919&am=30)|
