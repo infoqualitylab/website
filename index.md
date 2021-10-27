@@ -5,20 +5,6 @@ show_excerpts: false
 entries_layout: list
 ---
 
-![image of Jodi](/images/jodi_schneider.jpg "Jodi Schneider")
-
-I am [Assistant Professor of Information Sciences at the University of
-Illinois Urbana-Champaign](https://ischool.illinois.edu/people/jodi-schneider), where I teach classes in Information
-Organization and Access as well as in Information Modeling. I am also a
-Faculty Affiliate of the Illinois Informatics Institute, the Beckman
-Institute (Organizational Intelligence & Computational Social Science
-Working Group within the Intelligent Systems research theme), the Health
-Care Engineering Systems Center at the Coordinated Science Laboratory,
-and the European Union Center. I am also a Clinical Assistant Professor
-in the Department of Psychiatry of the University of Illinois Chicago
-School of Medicine.
-
-
 The information quality lab studies the science of science,
 bibliographic information retrieval (especially retrieval and quality of
 medical information), and how evidence-based arguments are used in
@@ -32,3 +18,17 @@ network analysis, textmining), knowledge representation (ontologies and
 semantic technologies), prototyping, annotation, mixed methods research,
 and user-based evaluations. Typical applications areas include digital
 libraries and health informatics.
+
+DIRECTOR: Jodi Schneider: 
+![image of Jodi](/images/jodi_schneider.jpg "Jodi Schneider")
+
+I am [Assistant Professor of Information Sciences at the University of
+Illinois Urbana-Champaign](https://ischool.illinois.edu/people/jodi-schneider), where I teach classes in Information
+Organization and Access as well as in Information Modeling. I am also a
+Faculty Affiliate of the Illinois Informatics Institute, the Beckman
+Institute (Organizational Intelligence & Computational Social Science
+Working Group within the Intelligent Systems research theme), the Health
+Care Engineering Systems Center at the Coordinated Science Laboratory,
+and the European Union Center. I am also a Clinical Assistant Professor
+in the Department of Psychiatry of the University of Illinois Chicago
+School of Medicine.
