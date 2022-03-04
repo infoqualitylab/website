@@ -1,7 +1,7 @@
 ---
 layout: disco2021
 title: Call for Participation
-permalink: /events/disco2021/cfp
+permalink: /events/disco2022/cfp
 ---
 
 We invite original research papers (long) describing new developments,
