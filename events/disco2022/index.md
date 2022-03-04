@@ -1,5 +1,5 @@
 ---
-layout: disco2021
+layout: disco2022
 title: DISCO2021 - Digital Infrastructures for Scholarly Content Objects at JCDL2021
 permalink: /events/disco2022/
 ---

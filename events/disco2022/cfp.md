@@ -1,5 +1,5 @@
 ---
-layout: disco2021
+layout: disco2022
 title: Call for Participation
 permalink: /events/disco2022/cfp
 ---

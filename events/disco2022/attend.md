@@ -1,5 +1,5 @@
 ---
-layout: disco2021
+layout: disco2022
 title: Attend
 permalink: /events/disco2022/attend
 ---
