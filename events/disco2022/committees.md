@@ -13,6 +13,8 @@ permalink: /events/disco2022/committees
 
 [Yuanxi Fu](https://yuanxifu.site) is a doctoral student at the School of Information Sciences at the University of Illinois at Urbana-Champaign in May 2021. She holds a BS in chemistry from Nanjing University in China and a PhD in chemistry from University of Illinois at Urbana-Champaign. Her research focuses on argumentation in science.
 
+[Hermann Kroll](http://www.ifis.cs.tu-bs.de/staff/hermann-kroll), Technical University of Braunschweig, Germany
+
 ### Program Committee (to be confirmed)
 [Akiko Aizawa](http://research.nii.ac.jp/~akiko/index_e.html), National Institute of Informatics, Japan
 
@@ -35,8 +37,6 @@ permalink: /events/disco2022/committees
 [Edward Fox](https://fox.cs.vt.edu/foxinfo.html), Virgnia Tech, USA
 
 [Nancy Green](https://compsci.uncg.edu/faculty/green/), University of North Carolina Greensboro, USA
-
-[Hermann Kroll](http://www.ifis.cs.tu-bs.de/staff/hermann-kroll), Technical University of Braunschweig, Germany
 
 [Allard Oelen](https://www.tib.eu/en/research-development/data-science-digital-libraries/staff/allard-oelen), L3S Research Center, Germany
 
