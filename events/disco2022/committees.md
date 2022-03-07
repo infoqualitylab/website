@@ -15,35 +15,7 @@ permalink: /events/disco2022/committees
 
 [Hermann Kroll](http://www.ifis.cs.tu-bs.de/staff/hermann-kroll), Technical University of Braunschweig, Germany
 
-### Program Committee (to be confirmed)
-[Akiko Aizawa](http://research.nii.ac.jp/~akiko/index_e.html), National Institute of Informatics, Japan
-
-[Bob Allen](http://boballen.info)
-
-[Sören Auer](https://www.tib.eu/en/research-development/data-science-digital-libraries/staff/soeren-auer), Leibniz Information Centre for Science and Technology University Library (TIB), Germany
-
-[Christian Bölling](https://www.museumfuernaturkunde.berlin/en/about/team/christian.boelling), Natural History Museum, Berlin, Leibniz Institute for Evolution and Biodiversity Science, Germany
-
-[Florian Boudin](https://boudinfl.github.io/), University of Nantes, France
-
-[Gully Burns](https://www.linkedin.com/in/gullyaburns/), Chan Zuckerberg Initiative, USA
-
-[Joel Chan](http://joelchan.me/), University of Maryland, USA
-
-[Tim Clark](https://datascience.virginia.edu/people/tim-clark), University of Virginia, USA
-
-[Jennifer D'Souza](https://www.tib.eu/en/research-development/data-science-digital-libraries/staff/jennifer-dsouza), Leibniz Information Centre for Science and Technology University Library (TIB), Germany
-
-[Edward Fox](https://fox.cs.vt.edu/foxinfo.html), Virgnia Tech, USA
-
-[Nancy Green](https://compsci.uncg.edu/faculty/green/), University of North Carolina Greensboro, USA
-
-[Allard Oelen](https://www.tib.eu/en/research-development/data-science-digital-libraries/staff/allard-oelen), L3S Research Center, Germany
-
-[Halie Rando](https://greenelab.com/members/halie-rando.html), University of Colorado Anschutz Medical Campus, USA
-
-[Thomas Stoeger](https://amaral.northwestern.edu/people/stoeger/), Northwestern University, USA
-
-[Markus Stocker](http://markusstocker.com/), Leibniz Information Centre for Science and Technology, Germany
+### Program Committee
+Coming later ...
 
 
