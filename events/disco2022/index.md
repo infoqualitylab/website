@@ -5,6 +5,12 @@ permalink: /events/disco2022/
 ---
 The goal of the Digital Infrastructures for Scholarly Content Objects (DISCO2022) workshop at [JCDL 2022](https://2022.jcdl.org) is to raise awareness of quality issues and re-use challenges in digital infrastructures for scholarly content, and collect potential solutions among an audience of diverse expertise.  
 
+**Previous workshop page**  
+[DISCO2021](https://infoqualitylab.org/events/disco2021/)
+
+**Previous proceedings**  
+[DISCO2021](http://ceur-ws.org/Vol-2976/)
+
 ## Problem Statement
 As digital libraries make the dissemination of research publications
 easier, they also enable the propagation of invalid or unreliable
