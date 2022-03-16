@@ -46,7 +46,7 @@ style/). You can also download an [offline version with the style files containi
 Word templates](http://ceur-ws.org/Vol-XXX/CEURART.zip).
 
 All papers are to be submitted via the conference’s EasyChair submission
-system https://easychair.org/conferences/?conf=disco2021
+system https://easychair.org/my/conference?conf=disco2022
 
 Each accepted paper must be presented online by at least one of the
 co-authors. Accepted papers will be published in CEUR Workshop
