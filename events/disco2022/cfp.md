@@ -12,7 +12,7 @@ game changing technologies, and also surprising negative results as
 interesting starting points for discussion.  
 
 ### Important Dates
-- Paper submission: Friday, April 15, 2022, Anywhere on Earth time (AOE)
+- Paper submission: Friday, April 22, 2022, Anywhere on Earth time (AOE)
 - Camera-ready deadline: Sunday, May 22, 2022, Anywhere on Earth time (AOE)
 - Workshop: Thursday June 23th, 2022 & Friday June 24, 2022, online in conjunction with [JCDL 2022](https://2022.jcdl.org).
 
