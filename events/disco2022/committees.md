@@ -28,7 +28,7 @@ permalink: /events/disco2022/committees
 
 [Gully Burns](https://www.linkedin.com/in/gullyaburns/), Chan Zuckerberg Initiative, USA
 
-[Davide Ceolin](https://www.cwi.nl/people/davide-ceolin), Centrum Wiskunde & Informatica (CWI),  Vrije Universiteit Amsterdam, Netherlands
+[Davide Ceolin](https://www.cwi.nl/people/davide-ceolin), Centrum Wiskunde & Informatica (CWI),  Vrije Universiteit Amsterdam, The Netherlands
 
 [Tim Clark](https://datascience.virginia.edu/people/tim-clark), University of Virginia, USA
 
@@ -50,7 +50,8 @@ permalink: /events/disco2022/committees
 
 [Ningyuan Song](https://im.nju.edu.cn/sny/list.htm), Nanjing University, China
 
-[Xiaoguang Wang](https://sim.whu.edu.cn/info/1052/1557.htm), Wuhan University, China
+[Herbert van den Sompel](https://hvdsomp.info/), DANS(Data Archiving and Networked Services), The Netherlands
 
-[Herbert van den Sompel](https://hvdsomp.info/), 
+[Xiaoguang Wang](https://sim.whu.edu.cn/info/1052/1557.htm), Wuhan University, China
+ 
 
