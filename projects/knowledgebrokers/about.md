@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: knowledgebrokers
 title: "About"
 permalink: /projects/knowledgebrokers/about
 ---
