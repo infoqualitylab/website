@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Strengthening Public Libraries' Information Literacy Services Through an Understanding of Knowledge Brokers' Assessment of Technical and Scientific Information"
+title: ""
 permalink: /projects/knowledgebrokers/
 ---
 
