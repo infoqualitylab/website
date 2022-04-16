@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: knowledgebrokers
 title: "Participate (Year 1)"
 permalink: /projects/knowledgebrokers/participate-y1
 ---
