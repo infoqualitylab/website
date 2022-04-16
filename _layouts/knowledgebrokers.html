@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<!--
+    So Simple Jekyll Theme 3.1.1
+    Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
+    Free for personal and commercial use under the MIT license
+    https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
+-->
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
+  {% include head.html %}
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
+    {% include skip-links.html %}
+<a href="https://infoqualitylab.org/projects/knowledgebrokers/"><img src="https://infoqualitylab.org/images/risrs2020/risrs2020horizontal300dpi.jpg" alt="project logo for Strengthening Public Libraries' Information Literacy Services Through an Understanding of Knowledge Brokers' Assessment of Technical and Scientific Information" /></a>
+    {% include knowledgebrokersnavigation.html %}
+      <h3>{{page.title}}</h3>
+      
+    {{ content }}
+      
+    {% include knowledgebrokersfooter.html %}
+    {% include scripts.html %}
+
+  </body>
+
+</html>
