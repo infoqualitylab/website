@@ -9,7 +9,7 @@
   {% include head.html %}
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
     {% include skip-links.html %}
-<a href="https://infoqualitylab.org/projects/knowledgebrokers/"><img src="https://infoqualitylab.org/images/knowledgebrokers.jpg" width="300" alt="project logo for Strengthening Public Libraries' Information Literacy Services Through an Understanding of Knowledge Brokers' Assessment of Technical and Scientific Information" /></a>
+<a href="https://infoqualitylab.org/projects/knowledgebrokers/">Strengthening Public Libraries' Information Literacy Services Through an Understanding of Knowledge Brokers' Assessment of Technical and Scientific Information</a>
     {% include knowledgebrokersnavigation.html %}
       <h3>{{page.title}}</h3>
       
