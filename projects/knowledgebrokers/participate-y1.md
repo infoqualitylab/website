@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "PARTICIPATE (Year 1): Strengthening Public Libraries' Information Literacy Services Through an Understanding of Knowledge Brokers' Assessment of Technical and Scientific Information"
+title: "Participate (Year 1)"
 permalink: /projects/knowledgebrokers/participate-y1
 ---
 
