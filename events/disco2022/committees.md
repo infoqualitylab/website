@@ -36,6 +36,8 @@ permalink: /events/disco2022/committees
 
 [Edward Fox](https://fox.cs.vt.edu/foxinfo.html), Virgnia Tech, USA
 
+[Nancy Green](https://compsci.uncg.edu/faculty/green/), University of North Carolina, Greensboro
+
 [Wei Lu](https://sim.whu.edu.cn/info/1204/6175.htm), Wuhan University, China
 
 [Laura Moss](http://ideasresearch.org/lmoss.html), University of Glasgow, UK
