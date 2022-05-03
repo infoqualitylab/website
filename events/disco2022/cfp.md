@@ -40,7 +40,7 @@ submission.
 The maximum length of submissions (including bibliography) should be as
 follows:  
 Full paper submissions: 10 pages  
-Position paper submissions: 5 pages
+Position paper submissions: 5 pages  
 **Non-archival extended abstract**: 2 pages + reference
 
 For non-archival extended abstract, submissions may include previously published results, late-breaking results, and work in progress. Extended abstracts can summarize existing work, work in progress, or a collection of works under a unified theme (e.g., a series of closely related papers that build on each other or tackle a common problem). Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop. Accepted abstracts will be announced by June 10th. The abstracts are non-archival and will not appear in the formal CEUR workshop proceedings; participants are free to also submit their work for publication elsewhere. Figures and tables count toward the 2-page + references maximum length. 
