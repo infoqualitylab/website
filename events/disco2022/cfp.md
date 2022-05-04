@@ -13,8 +13,8 @@ interesting starting points for discussion.
 
 ### Important Dates  
 - Paper submission: Friday, April 22, 2022, Anywhere on Earth time (AOE).
-- **Non-archival extended abstract**: Wednesday, June 1, 2022, Anywhere on Earth time (AOE).
-- **Notification of acceptance for extended abstract**: Friday, June 10, 2022.
+- **New** Non-archival extended abstract: Wednesday, June 1, 2022, Anywhere on Earth time (AOE).
+- **New** Notification of acceptance for extended abstract: Friday, June 10, 2022.
 - Camera-ready deadline: Sunday, May 22, 2022, Anywhere on Earth time (AOE).
 - Workshop: Thursday June 23th, 2022 & Friday June 24, 2022, online in conjunction with [JCDL 2022](https://2022.jcdl.org).
 
@@ -41,9 +41,9 @@ The maximum length of submissions (including bibliography) should be as
 follows:  
 Full paper submissions: 10 pages  
 Position paper submissions: 5 pages  
-**Non-archival extended abstract**: 2 pages + references
+**New** Non-archival extended abstract: 2 pages + references
 
-For **non-archival extended abstract**, submissions may include previously published results, late-breaking results, and work in progress. Extended abstracts can summarize existing work, work in progress, or a collection of works under a unified theme (e.g., a series of closely related papers that build on each other or tackle a common problem). Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop. Accepted abstracts will be announced by June 10th. The abstracts are non-archival and will not appear in the formal CEUR workshop proceedings; participants are free to also submit their work for publication elsewhere. Figures and tables count toward the 2-page + references maximum length. 
+**New** For non-archival extended abstract, submissions may include previously published results, late-breaking results, and work in progress. Extended abstracts can summarize existing work, work in progress, or a collection of works under a unified theme (e.g., a series of closely related papers that build on each other or tackle a common problem). Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop. Accepted abstracts will be announced by June 10th. The abstracts are non-archival and will not appear in the formal CEUR workshop proceedings; participants are free to also submit their work for publication elsewhere. Figures and tables count toward the 2-page + references maximum length. 
 
 All submissions must be in English, in PDF format. Papers should follow
 two-column [CEUR-ART paper formatting guidelines](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-
