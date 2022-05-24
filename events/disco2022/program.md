@@ -5,15 +5,13 @@ permalink: /events/disco2021/program
 ---
 
 ---
-Thursday 30 September 9am-12:15pm US CDT [convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T09&p1=5158&ah=3&am=15)
+Friday 24 June 2 pm -- 5:30 PM CEST [convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=DISCO2022&iso=20220624T14&p1=%3A&ah=3&am=30)
 
 |Authors/Speaker|Title|Time (US CDT AM)|Time Conversion|
 |-----------|-----------|-----------|-----------|
-|Wolf-Tilo Balke|Opening remarks|9:00-9:10|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T09&p1=5158&am=10)|
-|[Akiko Aizawa](http://research.nii.ac.jp/~akiko/index_e.html)|**Keynote I**: [Natural language processing and information linkage for scholarly digital infrastructures](https://infoqualitylab.org/events/disco2021/keynote)|9:10-10:10|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T0910&p1=3919&ah=1)|
-|Matteo Petrera, Dennis Trautwein, Isabel Beckenbach, Dariush Ehsani, Fabian Müller, Olaf Teschke, Bela Gipp and Moritz Schubotz|[zbMATH Open: API Solutions and Research Challenge](http://infoqualitylab.web.illinois.edu/lab/temp/paper-1.pdf)|10:10-10:40|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T1010&p1=3919&am=30)|
-||Break|10:40-11:00|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T1040&p1=3919&am=30)|
-|Hermann Kroll, Judy Alchaar and Wolf-Tilo Balke|[Open Information Extraction in Digital Libraries: Current Challenges and Open Research Questions](http://infoqualitylab.web.illinois.edu/lab/temp/short-1.pdf)|11:00-11:20|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T11&p1=3919&am=20)|
-|Denis Nagel, Till Affeldt and Wolf-Tilo Balke|[Data Narrations - Using flexible Data Bindings to support the Reproducibility of Claims in Digital Library Objects](http://infoqualitylab.web.illinois.edu/lab/temp/short-2.pdf) |11:20-11:40|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T1120&p1=3919&am=20)|
-|Florian Plötzky and Wolf-Tilo Balke|[What it Boils Down to... The Case for Event Analogies to Combat Complexity in Digital Libraries](http://infoqualitylab.web.illinois.edu/lab/temp/short-3.pdf)|11:40-12:00|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T1140&p1=3919&am=20)|
-|Jodi Schneider|Session 1 closing remarks|12:00-12:15|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T12&p1=3919&am=15)|
+|TBD|**Opening remarks**|2:00 PM -- 2:05 PM|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210930T09&p1=5158&am=10)|
+|TBD|**Keynote**|2:05 PM -- 2:50 PM|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Keynote&iso=20220624T1405&p1=%3A&am=45)|
+|TBD|**Extended Abstracts Presentations**|2:50 PM -- 3:35 PM|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Extended+Abstracts+Presentations&iso=20220624T1250&p1=%3A&am=45)|
+||**Break**|3:35 PM -- 3:45 PM|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Break&iso=20220624T1535&p1=%3A&am=10)|
+||**Panel Discussions**|3:45 PM -- 5:20 PM|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Panel+Discussion&iso=20220624T1545&p1=%3A&ah=1&am=35)|
+|TBD|Closing Remarks|5:20 PM -- 5:30 PM|[convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Closing+Remarks&iso=20220624T1720&p1=%3A&am=10)|
