@@ -12,7 +12,7 @@ game changing technologies, and also surprising negative results as
 interesting starting points for discussion.  
 
 ### Important Dates  
-- Paper submission: Friday, April 22, 2022, Anywhere on Earth time (AOE).
+- ~~Paper submission: Friday, April 22, 2022, Anywhere on Earth time (AOE).~~
 - **(New)** Non-archival extended abstract: Wednesday, June 1, 2022, Anywhere on Earth time (AOE).
 - **(New)** Notification of acceptance for extended abstract: Friday, June 10, 2022.
 - Camera-ready deadline: Sunday, May 22, 2022, Anywhere on Earth time (AOE).
