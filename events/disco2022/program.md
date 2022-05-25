@@ -1,7 +1,7 @@
 ---
-layout: disco2021
+layout: disco2022
 title: Program
-permalink: /events/disco2021/program
+permalink: /events/disco2022/program
 ---
 
 ---
