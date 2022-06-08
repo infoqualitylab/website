@@ -8,4 +8,5 @@ permalink: /events/disco2022/attend
 Online. 
 
 ### Registration
+[JCDL workshop registration](https://2022.jcdl.org/registration/)
 ---
