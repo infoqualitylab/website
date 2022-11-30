@@ -8,4 +8,5 @@ The ultimate goal of this research project is to provide libraries with actionab
 
 **Project Team**
 
-* Dr. [Jodi Schneider](https://ischool.illinois.edu/people/jodi-schneider) (PD), Assistant Professor, School of Information Sciences, University of Illinois at Urbana Champaign. jodi@illinois.edu
+* Dr. [Jodi Schneider](https://ischool.illinois.edu/people/jodi-schneider) (PD), Associate Professor, School of Information Sciences, University of Illinois at Urbana Champaign. jodi@illinois.edu
+* [Togzhan Seilkhanova]([url](https://ischool.illinois.edu/people/togzhan-seilkhanova), PhD student, School of Information Sciences, University of Illinois at Urbana Champaign
