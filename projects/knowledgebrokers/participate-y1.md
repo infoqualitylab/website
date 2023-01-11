@@ -7,7 +7,7 @@ permalink: /projects/knowledgebrokers/participate-y1
 Do you help others understand technical and scientific information? 
 Calling journalists, librarians, Wikipedia editors, activists, community leaders, and other knowledge brokers!
 
-In 2022, we seek to interview 40 people who have provided information about COVID-19. Interviews are about 1 hour, by phone or on a video platform such as Zoom. 
+In 2023, we seek to interview 40 people who have provided information about COVID-19. Interviews are about 1 hour, by phone or on a video platform such as Zoom. 
 
 In the interview, you will be asked a series of questions relating to:
 * your experience finding and applying technical and scientific information
