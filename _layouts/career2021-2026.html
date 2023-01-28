@@ -9,13 +9,13 @@
   {% include head.html %}
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
     {% include skip-links.html %}
-<a href="https://infoqualitylab.org/projects/career2021-2026/"><img src="https://github.com/infoqualitylab/website/blob/gh-pages/images/career2021-2026/career_image.png" alt="project logo for Using Network Analysis to Assess Confidence in Research Synthesis"/></a>
-    <!--{% include risrs2020navigation.html %}-->
+<a href="https://infoqualitylab.org/projects/career2021-2026/"><img src="https://infoqualitylab.org/images/career2021-2026/career_image.png" alt="project logo for Using Network Analysis to Assess Confidence in Research Synthesis"/></a>
+    {% include risrs2020navigation.html %}
       <h3>{{page.title}}</h3>
       
     {{ content }}
       
-    <!--{% include risr2020footer.html %}-->
+    {% include risr2020footer.html %}
     {% include scripts.html %}
 
   </body>
