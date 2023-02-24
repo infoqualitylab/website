@@ -17,7 +17,7 @@ Jodi Schneider, Nathan D. Woods, Randi Proescholdt, Yuanxi Fu, and The RISRS Tea
 <!-- Additional copy in IDEALS http://hdl.handle.net/2142/110219 -->
 
 **Shorter summary document**
-Jodi Schneider, Nathan D. Woods, Randi Proescholdt, and The RISRS Team. (2022) “[Reducing the Inadvertent Spread of Retracted Science: Recommendations from the RISRS Report],(http://doi.org/10.1186/s41073-022-00125-x)” *Research Integrity and Peer Review*. Volume 7, Paper 6. doi:10.1186/s41073-022-00125-x
+Jodi Schneider, Nathan D. Woods, Randi Proescholdt, and The RISRS Team. (2022) “[Reducing the Inadvertent Spread of Retracted Science: Recommendations from the RISRS Report](http://doi.org/10.1186/s41073-022-00125-x),” *Research Integrity and Peer Review*. Volume 7, Paper 6. doi:10.1186/s41073-022-00125-x
 <!--Earlier version available as [Research Square Preprint](https://doi.org/10.21203/rs.3.rs-783543/v1) https://doi.org/10.21203/rs.3.rs-783543/v1 -->
 
 **Description of the RISRS process**
