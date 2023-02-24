@@ -21,7 +21,7 @@ Jodi Schneider, Nathan D. Woods, Randi Proescholdt, and The RISRS Team. (2022) â
 <!--Earlier version available as [Research Square Preprint](https://doi.org/10.21203/rs.3.rs-783543/v1) https://doi.org/10.21203/rs.3.rs-783543/v1 -->
 
 
-**[Other outputs](https://infoqualitylab.org/projects/risrs2020/outputs/)**
+**[Other outputs](https://infoqualitylab.org/projects/risrs2020/outputs)**
 
 **Feedback**
 To provide feedback, suggest a collaboration, or alert us to relevant work for our ongoing [bibliography of empirical research related to retraction](https://infoqualitylab.org/projects/risrs2020/bibliography/) (last updated July 2021), email jodi@illinois.edu.
