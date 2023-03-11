@@ -10,7 +10,7 @@
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
     {% include skip-links.html %}
 <a href="https://infoqualitylab.org/projects/confidence-in-research-synthesis/"><img src="https://infoqualitylab.org/images/cirs/internet-blue-network-banner.jpg" alt="project logo for CAREER:Using Network Analysis to Assess Confidence in Research Synthesis" /></a>
-    {% include risrs2020navigation.html %}
+ <!--Needs its own navigation later   {% include risrs2020navigation.html %} -->
       <h3>{{page.title}}</h3>
       
     {{ content }}
