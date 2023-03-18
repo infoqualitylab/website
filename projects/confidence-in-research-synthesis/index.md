@@ -18,7 +18,7 @@ Do you use scientific literature? Would you like to provide feedback on tools fo
 Yuanxi Fu, Caitlin Vitosky Clarke, Mark Van Moer, Jodi Schneider. (2022). “Exploring Evidence Selection with the Inclusion Network” Preprint in MetArXiv: [doi:10.31222/osf.io/zh9vp](https://osf.io/preprints/metaarxiv/zh9vp/)
 
 ### Software
-Yuanxi Fu (2022). Code for the inclusion net manuscript (1.0.0) [Python and R].[https://github.com/infoqualitylab/code_for_the_inclusion_net_manuscript](https://github.com/infoqualitylab/code_for_the_inclusion_net_manuscript)
+Yuanxi Fu (2022). Code for the inclusion net manuscript (1.0.0) [Python and R]. [https://github.com/infoqualitylab/code_for_the_inclusion_net_manuscript](https://github.com/infoqualitylab/code_for_the_inclusion_net_manuscript)
 
 Manasi Ballal Joshi & Yuanxi Fu (2022). Author Network Analysis. [Python and R]. [https://github.com/infoqualitylab/author_network_analysis](https://github.com/infoqualitylab/author_network_analysis)
 
@@ -33,23 +33,23 @@ Yuanxi Fu (2022). Scopus author info tool (1.0.1) [Python]. [https://github.com/
 Mark Van Moer (2022). Information Quality Lab/Research Software Collaborative Services Collaboration on Visualizing Inclusion Networks and Coauthor Networks [Python]. [https://github.com/infoqualitylab/RSCS-collaboration](https://github.com/infoqualitylab/RSCS-collaboration)
 
 ### Datasets
-Yuanxi Fu, Tzu-Kun Hsiao, & Manasi Ballal Joshi (2022). The Salt Controversy Systematic Review Reports and Primary Study Reports Network Dataset. University of Illinois at Urbana-Champaign Databank. https://doi.org/10.13012/B2IDB-6128763_V2 
+Yuanxi Fu, Tzu-Kun Hsiao, & Manasi Ballal Joshi (2022). The Salt Controversy Systematic Review Reports and Primary Study Reports Network Dataset. University of Illinois at Urbana-Champaign Databank. [https://doi.org/10.13012/B2IDB-6128763_V2](https://doi.org/10.13012/B2IDB-6128763_V2)
 
-Caitlin Clarke, Natalie Lischwe Mueller, Manasi Ballal Joshi, Yuanxi Fu, & Jodi Schneider (2022). The Inclusion Network of 28 Review Articles Published between 2013-2018 Investigating the Relationship Between Physical Activity and Depressive Symptoms. University of Illinois at Urbana-Champaign Databank. https://doi.org/10.13012/B2IDB-4614455_V2
+Caitlin Clarke, Natalie Lischwe Mueller, Manasi Ballal Joshi, Yuanxi Fu, & Jodi Schneider (2022). The Inclusion Network of 28 Review Articles Published between 2013-2018 Investigating the Relationship Between Physical Activity and Depressive Symptoms. University of Illinois at Urbana-Champaign Databank. [https://doi.org/10.13012/B2IDB-4614455_V2](https://doi.org/10.13012/B2IDB-4614455_V2)
 
 ### Oral Presentations
 Yuanxi Fu. (2022, Oct). What can we learn from a network of scientific evidence? iSchool Colloquium, University of Illinois at Urbana-Champaign
 
 ### Poster Presentations
-Zhonghe Wan, Yuanxi Fu & Jodi Schneider. Using Citation Redistribution to Estimate Unbiased Expected Citation Count from a Biased Citation Network. Poster presented at the iSchool Research Showcase, University of Illinois at Urbana Champaign, October 27, 2021. http://hdl.handle.net/2142/112794
+Zhonghe Wan, Yuanxi Fu & Jodi Schneider. Using Citation Redistribution to Estimate Unbiased Expected Citation Count from a Biased Citation Network. Poster presented at the iSchool Research Showcase, University of Illinois at Urbana Champaign, October 27, 2021. [http://hdl.handle.net/2142/112794](http://hdl.handle.net/2142/112794)
 
 ### Curricula
 Graduate Course in Research Impact (IS597RIO) 
 
 ### Workshop Organized
-Wolf-Tilo Balke, Hermann Kroll, Yuanxi Fu, Jodi Schneider, and Anita de Waard. 2022. 2nd Workshop on Digital Infrastructures for Scholarly Content Objects (DISCO'22). In Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries (JCDL '22). Association for Computing Machinery, New York, NY, USA, Article 58, 1–2. https://doi.org/10.1145/3529372.3530943 
+Wolf-Tilo Balke, Hermann Kroll, Yuanxi Fu, Jodi Schneider, and Anita de Waard. 2022. 2nd Workshop on Digital Infrastructures for Scholarly Content Objects (DISCO'22). In Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries (JCDL '22). Association for Computing Machinery, New York, NY, USA, Article 58, 1–2. [https://doi.org/10.1145/3529372.3530943](https://doi.org/10.1145/3529372.3530943)
 
-Joel Chan, Wayne Lutters, Jodi Schneider, Karola Kirsanow, Silvia Bessa, and Jonny L. Saunders. 2022. Growing New Scholarly Communication Infrastructures for Sharing, Reusing, and Synthesizing Knowledge. In Companion Publication of the 2022 Conference on Computer Supported Cooperative Work and Social Computing (CSCW'22 Companion). Association for Computing Machinery, New York, NY, USA, 278–281. https://doi.org/10.1145/3500868.3559398
+Joel Chan, Wayne Lutters, Jodi Schneider, Karola Kirsanow, Silvia Bessa, and Jonny L. Saunders. 2022. Growing New Scholarly Communication Infrastructures for Sharing, Reusing, and Synthesizing Knowledge. In Companion Publication of the 2022 Conference on Computer Supported Cooperative Work and Social Computing (CSCW'22 Companion). Association for Computing Machinery, New York, NY, USA, 278–281. [https://doi.org/10.1145/3500868.3559398](https://doi.org/10.1145/3500868.3559398)
 
 ## People Funded by the Project
 [Dr. Jodi Schneider (PI)](https://ischool.illinois.edu/people/jodi-schneider), Associate Professor, School of Information Sciences, University of Illinois at Urbana Champaign, jodi@illinois.edu 
