@@ -15,22 +15,22 @@ Do you use scientific literature? Would you like to provide feedback on tools fo
 
 ## Project Output 
 ### Preprints 
-Yuanxi Fu, Caitlin Vitosky Clarke, Mark Van Moer, Jodi Schneider. (2022). “Exploring Evidence Selection with the Inclusion Network” Preprint in MetArXiv: doi:10.31222/osf.io/zh9vp
+Yuanxi Fu, Caitlin Vitosky Clarke, Mark Van Moer, Jodi Schneider. (2022). “Exploring Evidence Selection with the Inclusion Network” Preprint in MetArXiv: [doi:10.31222/osf.io/zh9vp](https://osf.io/preprints/metaarxiv/zh9vp/)
 
 ### Software
-Yuanxi Fu (2022). Code for the inclusion net manuscript (1.0.0) [Python and R].https://github.com/infoqualitylab/code_for_the_inclusion_net_manuscript 
+Yuanxi Fu (2022). Code for the inclusion net manuscript (1.0.0) [Python and R].[https://github.com/infoqualitylab/code_for_the_inclusion_net_manuscript](https://github.com/infoqualitylab/code_for_the_inclusion_net_manuscript)
 
-Manasi Ballal Joshi & Yuanxi Fu (2022). Author Network Analysis. [Python and R]. https://github.com/infoqualitylab/author_network_analysis 
+Manasi Ballal Joshi & Yuanxi Fu (2022). Author Network Analysis. [Python and R]. [https://github.com/infoqualitylab/author_network_analysis](https://github.com/infoqualitylab/author_network_analysis)
 
-Yuanxi Fu, Zhonghe Wan, & Jasmine Yuan (2022). Citation Bias Study. [Python and R]. https://github.com/infoqualitylab/citation_bias_study 
+Yuanxi Fu, Zhonghe Wan, & Jasmine Yuan (2022). Citation Bias Study. [Python and R]. [https://github.com/infoqualitylab/citation_bias_study](https://github.com/infoqualitylab/citation_bias_study)
 
-Saahil Hiranandani, Kartikey Dubey, & Yuanxi Fu (2022). Computable Bibliography [Python]. https://github.com/infoqualitylab/computable-bibliography 
+Saahil Hiranandani, Kartikey Dubey, & Yuanxi Fu (2022). Computable Bibliography [Python]. [https://github.com/infoqualitylab/computable-bibliography](https://github.com/infoqualitylab/computable-bibliography)
 
-Yuanxi Fu (2022). Network motif analysis (1.0.0) [R]. https://github.com/infoqualitylab/network_motif_analysis 
+Yuanxi Fu (2022). Network motif analysis (1.0.0) [R]. [https://github.com/infoqualitylab/network_motif_analysis](https://github.com/infoqualitylab/network_motif_analysis)
 
-Yuanxi Fu (2022). Scopus author info tool (1.0.1) [Python]. https://github.com/infoqualitylab/Scopus_author_info_collection  
+Yuanxi Fu (2022). Scopus author info tool (1.0.1) [Python]. [https://github.com/infoqualitylab/Scopus_author_info_collection](https://github.com/infoqualitylab/Scopus_author_info_collection)
 
-Mark Van Moer (2022). Information Quality Lab/Research Software Collaborative Services Collaboration on Visualizing Inclusion Networks and Coauthor Networks [Python]. https://github.com/infoqualitylab/RSCS-collaboration
+Mark Van Moer (2022). Information Quality Lab/Research Software Collaborative Services Collaboration on Visualizing Inclusion Networks and Coauthor Networks [Python]. [https://github.com/infoqualitylab/RSCS-collaboration](https://github.com/infoqualitylab/RSCS-collaboration)
 
 ### Datasets
 Yuanxi Fu, Tzu-Kun Hsiao, & Manasi Ballal Joshi (2022). The Salt Controversy Systematic Review Reports and Primary Study Reports Network Dataset. University of Illinois at Urbana-Champaign Databank. https://doi.org/10.13012/B2IDB-6128763_V2 
