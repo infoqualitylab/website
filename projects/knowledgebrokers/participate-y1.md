@@ -18,6 +18,6 @@ The purpose of this study is to understand how knowledge brokers assess the qual
 
 Interviewees will receive a $35 giftcard by email after the interview.
 
-For questions about the research study, or to express interest in participating, please contact [Dr. Jodi Schneider](https://ischool.illinois.edu/people/jodi-schneider) at +1(217) 300-4328 or jodi@illinois.edu.
+For questions about the research study, or to express interest in participating, please contact [Dr. Jodi Schneider](https://ischool.illinois.edu/people/jodi-schneider) at +1(217) 300-4328 or jodi@illinois.edu. Our [research information sheet](https://infoqualitylab.org/images/knowledgebrokers/knowledgebrokers-research-information-sheet.pdf) and [sample interview questions](https://infoqualitylab.org/images/knowledgebrokers/knowledgebrokers-interview-questions.pdf) are also available online.
 
 Any questions or concerns about your rights as a participant please contact the [University of Illinois at Urbana-Champaign Office for the Protection of Research Subjects](https://oprs.research.illinois.edu) at +1(217) 333-2670 or via email at irb@illinois.edu.
