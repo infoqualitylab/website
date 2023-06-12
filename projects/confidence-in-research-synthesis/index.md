@@ -46,12 +46,14 @@ Zhonghe Wan, Yuanxi Fu & Jodi Schneider. Using Citation Redistribution to Estima
 ### Curricula
 Graduate Course in Research Impact (IS597RIO) 
 
-### Workshop Organized
+### Workshops Organized
 Wolf-Tilo Balke, Hermann Kroll, Yuanxi Fu, Jodi Schneider, and Anita de Waard. 2022. 2nd Workshop on Digital Infrastructures for Scholarly Content Objects (DISCO'22). In Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries (JCDL '22). Association for Computing Machinery, New York, NY, USA, Article 58, 1–2. [https://doi.org/10.1145/3529372.3530943](https://doi.org/10.1145/3529372.3530943)
+
+Jodi Schneider, Anita de Waard, Wolf-Tilo Balke, Xiaoguang Wang, Ningyuan Song, Bolin Hua, and Yuanxi Fu. Digital Infrastructures for Scholarly Content Objects. In 2021 ACM/IEEE Joint Conference on Digital Libraries (JCDL). [https://doi.org/10.1109/JCDL52503.2021.00069](https://doi.org/10.1109/JCDL52503.2021.00069)
 
 Joel Chan, Wayne Lutters, Jodi Schneider, Karola Kirsanow, Silvia Bessa, and Jonny L. Saunders. 2022. Growing New Scholarly Communication Infrastructures for Sharing, Reusing, and Synthesizing Knowledge. In Companion Publication of the 2022 Conference on Computer Supported Cooperative Work and Social Computing (CSCW'22 Companion). Association for Computing Machinery, New York, NY, USA, 278–281. [https://doi.org/10.1145/3500868.3559398](https://doi.org/10.1145/3500868.3559398)
 
 ## People Funded by the Project
 [Dr. Jodi Schneider (PI)](https://ischool.illinois.edu/people/jodi-schneider), Associate Professor, School of Information Sciences, University of Illinois at Urbana Champaign, jodi@illinois.edu 
 
-[Yuanxi Fu](https://ischool.illinois.edu/people/jodi-schneider), research assistant & doctoral student, School of Information Sciences, University of Illinois at Urbana Champaign, fu5@illinois.edu 
+[Yuanxi Fu]([https://ischool.illinois.edu/people/jodi-schneider](https://ischool.illinois.edu/people/yuanxi-fu)), research assistant & doctoral student, School of Information Sciences, University of Illinois at Urbana Champaign, fu5@illinois.edu 
