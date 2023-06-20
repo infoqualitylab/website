@@ -43,6 +43,12 @@ Yuanxi Fu. (2022, Oct). What can we learn from a network of scientific evidence?
 ### Poster Presentations
 Zhonghe Wan, Yuanxi Fu & Jodi Schneider. Using Citation Redistribution to Estimate Unbiased Expected Citation Count from a Biased Citation Network. Poster presented at the iSchool Research Showcase, University of Illinois at Urbana Champaign, October 27, 2021. [http://hdl.handle.net/2142/112794](http://hdl.handle.net/2142/112794)
 
+Shashank Kambhatla, Yuanxi Fu & Jodi Schneider. Evaluating Crossref Funding Data. Poster presented at the iSchool Student Showcase, University of Illinois at Urbana Champaign, April 20, 2023.
+[https://hdl.handle.net/2142/117486](https://hdl.handle.net/2142/117486)
+
+Zhiheng Ye, Yuanxi Fu & Jodi Schneider. Using Data Visualization to Characterize Bibliographies. Poster presented at the Undergraduate Research Symposium, University of Illinois at Urbana Champaign, April 27, 2023.
+[https://hdl.handle.net/2142/117485](https://hdl.handle.net/2142/117485)
+
 ### Curricula
 Graduate Course in Research Impact (IS597RIO) 
 
