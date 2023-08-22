@@ -68,7 +68,7 @@ Zhiheng Ye, Yuanxi Fu & Jodi Schneider. Using Data Visualization to Characterize
 Deyuan (Doreen) Yang. "WhoFundedIt" Web Application Design and Development. Poster presented at the Illinois Summer Research Program Alliance STEM Career Exploration and Symposium. University of Illinois at Urbana Champaign, July 26, 2023. [https://www.ideals.illinois.edu/items/127268](https://www.ideals.illinois.edu/items/127268)
 
 ### Curricula
-Graduate Course in Research Impact (IS597RIO) 
+Graduate Course in Research Impact (IS597RIO) [PDF](https://jodischneider.com/syllabi/2023spring--is597rio--researchimpact-bibliometrics-datascience.pdf) and [DOCX](https://jodischneider.com/syllabi/2023spring--is597rio--researchimpact-bibliometrics-datascience.docx)
 
 ### Workshops Organized
 Wolf-Tilo Balke, Hermann Kroll, Yuanxi Fu, Jodi Schneider, and Anita de Waard. 2022. 2nd Workshop on Digital Infrastructures for Scholarly Content Objects (DISCO'22). In Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries (JCDL '22). Association for Computing Machinery, New York, NY, USA, Article 58, 1–2. [https://doi.org/10.1145/3529372.3530943](https://doi.org/10.1145/3529372.3530943)
