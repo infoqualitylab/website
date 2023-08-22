@@ -40,6 +40,22 @@ Caitlin Clarke, Natalie Lischwe Mueller, Manasi Ballal Joshi, Yuanxi Fu, & Jodi 
 ### Oral Presentations
 Yuanxi Fu. (2022, Oct). What can we learn from a network of scientific evidence? iSchool Colloquium, University of Illinois at Urbana-Champaign
 
+Johan Krause. (2022 October 25). Analyzing and transforming OpenAlex: a large-scale knowledge graph of scholarly publications. iSchool Colloquium, University of Illinois at Urbana-Champaign
+
+Johan Krause. (2022 December 15). Final presentation of the Master's thesis. Institute of Applied Informatics and Formal Description Methods, Karlsruhe Institute of Technology, Germany
+
+Prathamesh Patil. (2023 April 19). The importance of schema design. Lightning talk presented at the iSchool Student Showcase, University of Illinois at Urbana Champaign, Urbana-Champaign, Illinois
+
+Zhiheng Ye. (2023 April 19). Computable bibliography: using data analysis and data visualization to characterize a bibliography. Lightning talk presented at the iSchool Student Showcase, University of Illinois at Urbana Champaign, Urbana-Champaign, Illinois
+
+Yuanxi Fu. (2023, Jul). Exploring Evidence Selection with the Inclusion Network. Networks in Science of Science, NetSci2023
+
+Jodi Schneider. (2023, Jul). How do empirical biomedical research articles argue? Examining the layers of rhetorical, domain-specific, and citation-based argumentation. International Society for the Study of Argumentation conference
+
+Ishita Sarraf. (2023 July 26). Text mining scholarly publications using APIs. Presented at Illinois Summer Research
+Program Alliance STEM Career Exploration and Symposium, University of Illinois at Urbana Champaign. https://hdl.handle.net/2142/120049
+
+
 ### Poster Presentations
 Zhonghe Wan, Yuanxi Fu & Jodi Schneider. Using Citation Redistribution to Estimate Unbiased Expected Citation Count from a Biased Citation Network. Poster presented at the iSchool Research Showcase, University of Illinois at Urbana Champaign, October 27, 2021. [http://hdl.handle.net/2142/112794](http://hdl.handle.net/2142/112794)
 
@@ -48,6 +64,8 @@ Shashank Kambhatla, Yuanxi Fu & Jodi Schneider. Evaluating Crossref Funding Data
 
 Zhiheng Ye, Yuanxi Fu & Jodi Schneider. Using Data Visualization to Characterize Bibliographies. Poster presented at the Undergraduate Research Symposium, University of Illinois at Urbana Champaign, April 27, 2023.
 [https://hdl.handle.net/2142/117485](https://hdl.handle.net/2142/117485)
+
+Deyuan (Doreen) Yang. "WhoFundedIt" Web Application Design and Development. Poster presented at the Illinois Summer Research Program Alliance STEM Career Exploration and Symposium. University of Illinois at Urbana Champaign, July 26, 2023. [https://www.ideals.illinois.edu/items/127268](https://www.ideals.illinois.edu/items/127268)
 
 ### Curricula
 Graduate Course in Research Impact (IS597RIO) 
