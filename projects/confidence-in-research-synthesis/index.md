@@ -22,4 +22,4 @@ If you are interested in joining our citizen advisory board, please fill out [th
 
 [Hannah Smith](https://ischool.illinois.edu/people/hannah-smith), research assistant & doctoral student, School of Information Sciences, University of Illinois at Urbana Champaign, hksmith2@illinois.edu
 
-[Shashank Kambhatla](https://infoqualitylab.org/people/), research assistant & undergraduate student, School of Information Sciences, University of Illinois at Urbana Champaign, sk76@illinois.edu
+Shashank Kambhatla, research assistant & undergraduate student, School of Information Sciences, University of Illinois at Urbana Champaign, sk76@illinois.edu
