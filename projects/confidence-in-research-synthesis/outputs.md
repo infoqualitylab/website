@@ -4,8 +4,8 @@ title: "CAREER:Using Network Analysis to Assess Confidence in Research Synthesis
 permalink: /projects/confidence-in-research-synthesis/outputs
 ---
 
-### Preprints 
-Yuanxi Fu, Caitlin Vitosky Clarke, Mark Van Moer, Jodi Schneider. (2022). “Exploring Evidence Selection with the Inclusion Network” Preprint in MetArXiv: [doi:10.31222/osf.io/zh9vp](https://osf.io/preprints/metaarxiv/zh9vp/)
+### Publication
+Yuanxi Fu, Caitlin Vitosky Clarke, Mark Van Moer, Jodi Schneider. (2022). “Exploring Evidence Selection with the Inclusion Network”. Accepted to *Quantitative Science Studies*. Preprint in MetArXiv: [doi:10.31222/osf.io/zh9vp](https://osf.io/preprints/metaarxiv/zh9vp/)
 
 ### Software
 Yuanxi Fu (2022). Code for the inclusion net manuscript (1.0.0) [Python and R]. [https://github.com/infoqualitylab/code_for_the_inclusion_net_manuscript](https://github.com/infoqualitylab/code_for_the_inclusion_net_manuscript)
