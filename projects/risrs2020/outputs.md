@@ -12,15 +12,18 @@ Jodi Schneider, Nathan D. Woods, Randi Proescholdt, and The RISRS Team. (2022) �
 <!--Earlier version available as [Research Square Preprint](https://doi.org/10.21203/rs.3.rs-783543/v1) https://doi.org/10.21203/rs.3.rs-783543/v1 -->
 
 **Description of the RISRS process**
-Nathan D. Woods, Jodi Schneider, and the RISRS Team. (2022). “[Addressing the continued circulation of retracted research as a design problem](https://gwpress.manifoldapp.org/read/retraction-as-a-design-problem/section/32a19ddd-381b-4a4c-aac9-bcbfd10c9c0a),” *GW Journal of Ethics in Publishing*, Volume 1, Issue 1. February 22, 2022. https://gwpress.manifoldapp.org/read/retraction-as-a-design-problem/section/32a19ddd-381b-4a4c-aac9-bcbfd10c9c0a
+Nathan D. Woods, Jodi Schneider, and the RISRS Team. (2022). “[Addressing the continued circulation of retracted research as a design problem](https://gwpress.manifoldapp.org/read/retraction-as-a-design-problem/section/32a19ddd-381b-4a4c-aac9-bcbfd10c9c0a),” *GW Journal of Ethics in Publishing*, Volume 1, Issue 1. February 22, 2022. [https://gwpress.manifoldapp.org/read/retraction-as-a-design-problem/section/32a19ddd-381b-4a4c-aac9-bcbfd10c9c0a](https://gwpress.manifoldapp.org/read/retraction-as-a-design-problem/section/32a19ddd-381b-4a4c-aac9-bcbfd10c9c0a)
 
 **Citation analyses describing this problem of continued citation**
-Tzu-Kun Hsiao and Jodi Schneider. “[Continued Use of Retracted Papers: Temporal Trends in Citations and (Lack of) Awareness of Retractions Shown in Citation Contexts in Biomedicine](http://doi.org/10.1162/qss_a_00155),” Quantitative Science Studies 2(4):1144–1169. doi:10.1162/qss_a_00155
+Tzu-Kun Hsiao and Jodi Schneider. (December 2021). “[Continued Use of Retracted Papers: Temporal Trends in Citations and (Lack of) Awareness of Retractions Shown in Citation Contexts in Biomedicine](http://doi.org/10.1162/qss_a_00155),” *Quantitative Science Studies* 2(4):1144–1169. doi:10.1162/qss_a_00155
 
-Jodi Schneider, Di Ye, Alison M Hill, Ashley S Whitehorn. (December 2020). “[Continued post-retraction citation of a fraudulent clinical trial report, eleven years after it was retracted for falsifying data](http://doi.org/10.1007/s11192-020-03631-1),” In Scientometrics. 125(3):2877-2913 doi:10.1007/s11192-020-03631-1
+Jodi Schneider, Di Ye, Alison M Hill, Ashley S Whitehorn. (December 2020). “[Continued post-retraction citation of a fraudulent clinical trial report, eleven years after it was retracted for falsifying data](http://doi.org/10.1007/s11192-020-03631-1),” In *Scientometrics* 125(3):2877-2913 doi:10.1007/s11192-020-03631-1
+
+**Retraction indexing analyses describing the challeges in determining what is retracted**
+Jodi Schneider, Jou Lee+, Heng Zheng+, & Malik Salami+. (2023). “Assessing the agreement in retraction indexing across 4 multidisciplinary sources: Crossref, Retraction Watch, Scopus, and Web of Science ”. 27th International Conference on Science, Technology and Innovation Indicators (STI 2023). doi:10.55835/6441e5cae04dbe5586d06a5f
 
 **Preprint**
-Caitlin Bakker, Stephanie Boughton, Clovis M. Faggion Jr., Daniele Fanelli, Kathryn A. Kaiser, Jodi Schneider. “[Reducing the residue of retractions in evidence synthesis: Ways to minimize the citation and use of retracted data](http://doi.org10.31222/osf.io/9we43),” Preprint in metaArXiv: doi:10.31222/osf.io/9we43
+Caitlin Bakker, Stephanie Boughton, Clovis M. Faggion Jr., Daniele Fanelli, Kathryn A. Kaiser, Jodi Schneider. (July 2023) “[Reducing the residue of retractions in evidence synthesis: Ways to minimize the citation and use of retracted data](https://doi.org/10.1136/bmjebm-2022-111921),” In *BMJ Evidence-based Medicine* Online First doi:10.1136/bmjebm-2022-111921 <!--Earlier version available as preprint in metaArXiv: https://doi.org/10.31222/osf.io/9we43 -->
 
 **Standards Projects**
 [NISO Communication of Retractions, Removals, and Expressions of Concern Working Group](https://www.niso.org/standards-committees/crec)
