@@ -20,7 +20,12 @@ Tzu-Kun Hsiao and Jodi Schneider. (December 2021). “[Continued Use of Retracte
 Jodi Schneider, Di Ye, Alison M Hill, Ashley S Whitehorn. (December 2020). “[Continued post-retraction citation of a fraudulent clinical trial report, eleven years after it was retracted for falsifying data](http://doi.org/10.1007/s11192-020-03631-1),” In *Scientometrics* 125(3):2877-2913 doi:10.1007/s11192-020-03631-1
 
 **Retraction indexing analyses describing the challeges in determining what is retracted**
-Jodi Schneider, Jou Lee+, Heng Zheng+, & Malik Salami+. (2023). “Assessing the agreement in retraction indexing across 4 multidisciplinary sources: Crossref, Retraction Watch, Scopus, and Web of Science ”. 27th International Conference on Science, Technology and Innovation Indicators (STI 2023). doi:10.55835/6441e5cae04dbe5586d06a5f
+Jodi Schneider, Jou Lee, Heng Zheng+, & Malik Salami. (2023). “[Assessing the agreement in retraction indexing across 4 multidisciplinary sources: Crossref, Retraction Watch, Scopus, and Web of Science](10.55835/6441e5cae04dbe5586d06a5f),” In 27th International Conference on Science, Technology and Innovation Indicators (STI 2023). doi:10.55835/6441e5cae04dbe5586d06a5f
+
+**The impact of citing retracted research (and non-reproducible research)**
+Yuanxi Fu, Jodi Schneider. (2020). “[Towards knowledge maintenance in scientific digital libraries with the keystone framework](http://doi.org/10.1145/3383583.3398514),” In ACM/IEEE Joint Conference on Digital Libraries (JCDL 2020), pages 217–226 doi:10.1145/3383583.3398514
+
+Heng Zheng, Yuanxi Fu, Jodi Schneider (2024). "How does a piece of unreliable code affect its citing publications, an argumentation analysis," In The Thirteenth Conference of the Ontario Society for the Study of Argumentation (OSSA 2024), University of Windsor, Canada, May 23-25, 2024.
 
 **Preprint**
 Caitlin Bakker, Stephanie Boughton, Clovis M. Faggion Jr., Daniele Fanelli, Kathryn A. Kaiser, Jodi Schneider. (July 2023) “[Reducing the residue of retractions in evidence synthesis: Ways to minimize the citation and use of retracted data](https://doi.org/10.1136/bmjebm-2022-111921),” In *BMJ Evidence-based Medicine* Online First doi:10.1136/bmjebm-2022-111921 <!--Earlier version available as preprint in metaArXiv: https://doi.org/10.31222/osf.io/9we43 -->
