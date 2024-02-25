@@ -19,6 +19,8 @@ Tzu-Kun Hsiao and Jodi Schneider. (December 2021). “[Continued Use of Retracte
 
 Jodi Schneider, Di Ye, Alison M Hill, Ashley S Whitehorn. (December 2020). “[Continued post-retraction citation of a fraudulent clinical trial report, eleven years after it was retracted for falsifying data](http://doi.org/10.1007/s11192-020-03631-1),” In *Scientometrics* 125(3):2877-2913 doi:10.1007/s11192-020-03631-1
 
+Tzu-Kun Hsiao; (2023). "[Appropriateness of citing retracted articles in biomedicine: Sentiments expressed in citations without acknowledgement of retraction](https://doi.org/10.5281/zenodo.8370893)," In 19th International Conference of the International Society for Scientometrics and Informetrics. doi:10.5281/zenodo.8370893
+
 **Retraction indexing analyses describing the challeges in determining what is retracted**
 Jodi Schneider, Jou Lee, Heng Zheng+, & Malik Salami. (2023). “[Assessing the agreement in retraction indexing across 4 multidisciplinary sources: Crossref, Retraction Watch, Scopus, and Web of Science](10.55835/6441e5cae04dbe5586d06a5f),” In 27th International Conference on Science, Technology and Innovation Indicators (STI 2023). doi:10.55835/6441e5cae04dbe5586d06a5f
 
