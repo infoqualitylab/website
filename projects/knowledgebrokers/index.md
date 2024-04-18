@@ -9,8 +9,8 @@ The ultimate goal of this research project is to provide libraries with actionab
 **Project Team**
 
 * Dr. [Jodi Schneider](https://ischool.illinois.edu/people/jodi-schneider) (PD), Associate Professor, School of Information Sciences, University of Illinois at Urbana Champaign. jodi@illinois.edu
-* Dr. [Heng Zheng](https://ischool.illinois.edu/people/heng-zheng), Postdoctoral Research Associate, School of Information Sciences, University of Illinois at Urbana Champaign. 
-* [Theodore Dreyfus Ledford](https://ischool.illinois.edu/people/theodore-dreyfus-ledford), PhD student, School of Information Sciences, University of Illinois at Urbana Champaign.
-* [Togzhan Seilkhanova](https://ischool.illinois.edu/people/togzhan-seilkhanova), PhD student, School of Information Sciences, University of Illinois at Urbana Champaign.
-* [Hannah Smith](https://ischool.illinois.edu/people/hannah-smith), PhD student, School of Information Sciences, University of Illinois at Urbana Champaign.
-* [Lev Frank](https://www.linkedin.com/in/lev-frank-bb308118b/), Master's student, School of Information Sciences, University of Illinois at Urbana Champaign.
+* Dr. [Heng Zheng](https://ischool.illinois.edu/people/heng-zheng), Postdoctoral Research Associate, School of Information Sciences, University of Illinois at Urbana Champaign 
+* [Theodore Dreyfus Ledford](https://ischool.illinois.edu/people/theodore-dreyfus-ledford), PhD student, School of Information Sciences, University of Illinois at Urbana Champaign
+* [Togzhan Seilkhanova](https://ischool.illinois.edu/people/togzhan-seilkhanova), PhD student, School of Information Sciences, University of Illinois at Urbana Champaign
+* [Hannah Smith](https://ischool.illinois.edu/people/hannah-smith), PhD student, School of Information Sciences, University of Illinois at Urbana Champaign
+* [Lev Frank](https://www.linkedin.com/in/lev-frank-bb308118b/), Master's student, School of Information Sciences, University of Illinois at Urbana Champaign
