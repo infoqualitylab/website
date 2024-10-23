@@ -20,11 +20,15 @@ If you are interested in joining our citizen advisory board, please fill out [th
 
 [Yuanxi Fu]([https://ischool.illinois.edu/people/jodi-schneider](https://ischool.illinois.edu/people/yuanxi-fu)), research assistant & doctoral student, School of Information Sciences, University of Illinois at Urbana Champaign
 
-Shashank Kambhatla, research assistant & undergraduate student, School of Information Sciences, University of Illinois at Urbana Champaign
+Corinne McCumber, research assistant, School of Information Sciences, University of Illinois at Urbana Champaign, corinne9@illinois.edu
 
 [Jana Sebestik](https://education.illinois.edu/people/jana-sebestik), Interim Director, Office for Mathematics, Science, & Technology Education, College of Education, University of Illinois at Urbana Champaign
 
-[Hannah Smith](https://ischool.illinois.edu/people/hannah-smith), research assistant & doctoral student, School of Information Sciences, University of Illinois at Urbana Champaign, hksmith2@illinois.edu
+
+## Project Alumni
+Shashank Kambhatla, research assistant & undergraduate student, School of Information Sciences, University of Illinois at Urbana Champaign
+
+[Hannah Smith](https://ischool.illinois.edu/people/hannah-smith), research assistant & doctoral student, School of Information Sciences, University of Illinois at Urbana Champaign
 
 
 
