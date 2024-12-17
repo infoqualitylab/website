@@ -3,9 +3,17 @@ layout: cirs
 title: "CAREER:Using Network Analysis to Assess Confidence in Research Synthesis - Project Outputs"
 permalink: /projects/confidence-in-research-synthesis/outputs
 ---
+### Preprint
+Malik Oyewale Salami, Corinne McCumber, and Jodi Schneider (2024). “Analyzing the Consistency of Retraction Indexing” Preprint in MetaArXiv: [doi:10.31222/osf.io/gvfk5](https://doi.org/10.31222/osf.io/gvfk5)
 
-### Publication
-Yuanxi Fu, Caitlin Vitosky Clarke, Mark Van Moer, Jodi Schneider. (2024). “Exploring Evidence Selection with the Inclusion Network”.  *Quantitative Science Studies* 5(1): 219–245. [doi:10.1162/qss_a_00287](https://doi.org/10.1162/qss_a_00287)
+### Publications
+Heng Zheng, Yuanxi Fu, M. Janina Sarol, Ishita Sarraf, and Jodi Schneider. “Addressing unreliability propagation in scientific digital libraries.” Accepted to the ACM/IEEE-CS Joint Conference on Digital Libraries 2024, Hong Kong. doi:10.1145/3677389.3702526 (pending)
+
+Christoph Stade, Jodi Schneider, and Yuanxi Fu. “Making sense of the environmental science landscape: An exploration of the CEEDER database.” In The Association for Information Science and Technology MET-STI 2024: Workshop on Informetric, Scientometric and Scientific and Technical Information Research. Online, November 13. [doi:10.5281/zenodo.13895516](https://doi.org/10.5281/zenodo.13895516)
+
+Malik Salami, Corinne McCumber, and Jodi Schneider. “Reassessment of the agreement in retraction indexing across 4 multidisciplinary sources: Crossref, Retraction Watch, Scopus, and Web of Science.” In The Association for Information Science and Technology MET-STI 2024: Workshop on Informetric, Scientometric and Scientific and Technical Information Research. Online, November 13. Best student paper award. [doi:10.5281/zenodo.14004526](https://doi.org/10.5281/zenodo.14004526)
+
+Yuanxi Fu, Caitlin Vitosky Clarke, Mark Van Moer, and Jodi Schneider. (2024). “Exploring Evidence Selection with the Inclusion Network”.  *Quantitative Science Studies* 5(1): 219–245. [doi:10.1162/qss_a_00287](https://doi.org/10.1162/qss_a_00287)
 
 ### Software
 Yuanxi Fu (2022). Code for the inclusion net manuscript (1.0.0) [Python and R]. [https://github.com/infoqualitylab/code_for_the_inclusion_net_manuscript](https://github.com/infoqualitylab/code_for_the_inclusion_net_manuscript)
