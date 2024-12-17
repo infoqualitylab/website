@@ -47,10 +47,13 @@ Yuanxi Fu (2022). Scopus author info tool (1.0.1) [Python]. [https://github.com/
 Ishita Sarraf & Yuanxi Fu. (2024). Text Mining Scholarly API (1.0.0) [Python and Shell]. [https://github.com/infoqualitylab/text-mining-scholarly-API](https://github.com/infoqualitylab/text-mining-scholarly-API)
 
 Doreen Yang & Yuanxi Fu. (2023). WhoFundedIt app (1.0.0) [Python]. [https://github.com/infoqualitylab/WhoFundedIt-app](https://github.com/infoqualitylab/WhoFundedIt-app)
-### Datasets
-Yuanxi Fu, Tzu-Kun Hsiao, & Manasi Ballal Joshi (2022). The Salt Controversy Systematic Review Reports and Primary Study Reports Network Dataset. University of Illinois at Urbana-Champaign Databank. [https://doi.org/10.13012/B2IDB-6128763_V2](https://doi.org/10.13012/B2IDB-6128763_V2)
 
-Caitlin Clarke, Natalie Lischwe Mueller, Manasi Ballal Joshi, Yuanxi Fu, & Jodi Schneider (2022). The Inclusion Network of 28 Review Articles Published between 2013-2018 Investigating the Relationship Between Physical Activity and Depressive Symptoms. University of Illinois at Urbana-Champaign Databank. [https://doi.org/10.13012/B2IDB-4614455_V2](https://doi.org/10.13012/B2IDB-4614455_V2)
+### Datasets
+Malik Oyewale Salami & Corinne McCumber. (2024). Redacted Dataset for Analyzing the Consistency of Retraction Indexing (Version 1) [Data set]. University of Illinois at Urbana-Champaign Databank. [https://doi.org/10.13012/B2IDB-8114408_V1](https://doi.org/10.13012/B2IDB-8114408_V1)
+
+Yuanxi Fu, Tzu-Kun Hsiao, & Manasi Ballal Joshi (2022). The Salt Controversy Systematic Review Reports and Primary Study Reports Network Dataset [Data set]. University of Illinois at Urbana-Champaign Databank. [https://doi.org/10.13012/B2IDB-6128763_V2](https://doi.org/10.13012/B2IDB-6128763_V2)
+
+Caitlin Clarke, Natalie Lischwe Mueller, Manasi Ballal Joshi, Yuanxi Fu, & Jodi Schneider (2022). The Inclusion Network of 28 Review Articles Published between 2013-2018 Investigating the Relationship Between Physical Activity and Depressive Symptoms [Data set]. University of Illinois at Urbana-Champaign Databank. [https://doi.org/10.13012/B2IDB-4614455_V2](https://doi.org/10.13012/B2IDB-4614455_V2)
 
 ### Oral Presentations
 Yuanxi Fu. (2022, Oct). What can we learn from a network of scientific evidence? iSchool Colloquium, University of Illinois at Urbana-Champaign
