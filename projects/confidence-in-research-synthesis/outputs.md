@@ -15,21 +15,38 @@ Malik Salami, Corinne McCumber, and Jodi Schneider. “Reassessment of the agree
 
 Yuanxi Fu, Caitlin Vitosky Clarke, Mark Van Moer, and Jodi Schneider. (2024). “Exploring Evidence Selection with the Inclusion Network”.  *Quantitative Science Studies* 5(1): 219–245. [doi:10.1162/qss_a_00287](https://doi.org/10.1162/qss_a_00287)
 
-### Software
-Yuanxi Fu (2022). Code for the inclusion net manuscript (1.0.0) [Python and R]. [https://github.com/infoqualitylab/code_for_the_inclusion_net_manuscript](https://github.com/infoqualitylab/code_for_the_inclusion_net_manuscript)
-
+### Software (alphabetical by repository name)
 Manasi Ballal Joshi & Yuanxi Fu (2022). Author Network Analysis. [Python and R]. [https://github.com/infoqualitylab/author_network_analysis](https://github.com/infoqualitylab/author_network_analysis)
+
+Christoph Stade & Yuanxi Fu. (2024). CEEDER Study (1.0.0) [Python]. [https://github.com/infoqualitylab/CEEDER_study](https://github.com/infoqualitylab/CEEDER_study)
 
 Yuanxi Fu, Zhonghe Wan, & Jasmine Yuan (2022). Citation Bias Study. [Python and R]. [https://github.com/infoqualitylab/citation_bias_study](https://github.com/infoqualitylab/citation_bias_study)
 
-Saahil Hiranandani, Kartikey Dubey, & Yuanxi Fu (2022). Computable Bibliography [Python]. [https://github.com/infoqualitylab/computable-bibliography](https://github.com/infoqualitylab/computable-bibliography)
+Yuanxi Fu (2022). Code for the inclusion net manuscript (1.0.0) [Python and R]. [https://github.com/infoqualitylab/code_for_the_inclusion_net_manuscript](https://github.com/infoqualitylab/code_for_the_inclusion_net_manuscript)
+
+Saahil Hiranandani, Kartikey Dubey, Yuanxi Fu, & Shashank Kambhatla (2022). Computable Bibliography [Python]. [https://github.com/infoqualitylab/computable-bibliography](https://github.com/infoqualitylab/computable-bibliography)
+
+Hannah Smith. (2024). Controversy Dataset Development (1.0.0) [Python]. [https://github.com/infoqualitylab/controversy_dataset_development](https://github.com/infoqualitylab/controversy_dataset_development)
+
+Shashank Kambhatla & Yuanxi Fu. (2023). Crossref Funder Data Utility (1.0.0) [Jupyter Notebook]. [https://github.com/infoqualitylab/crossref_funder_data_utility](https://github.com/infoqualitylab/crossref_funder_data_utility)
+
+Yuanxi Fu & Ishita Sarraf. (2024). JCDL 2024 Triage Approach (1.0.1) [Python and Jupyter Notebook]. [https://github.com/infoqualitylab/JCDL-2024-triage-approach](https://github.com/infoqualitylab/JCDL-2024-triage-approach)
+
+Saish Desai, Malik Oyewale Salami, & Johan Kayse. (2023). NER Tool Assessment for Funding Organization Extraction (1.0.0)  [Jupyter Notebook and Python]. [https://github.com/infoqualitylab/NER-tool-assessment-for-funding-organization-extraction](https://github.com/infoqualitylab/NER-tool-assessment-for-funding-organization-extraction) 
 
 Yuanxi Fu (2022). Network motif analysis (1.0.0) [R]. [https://github.com/infoqualitylab/network_motif_analysis](https://github.com/infoqualitylab/network_motif_analysis)
 
+Yuanxi Fu & Tongtong Gu. (2023). Openpayments API (1.0.0) [Jupyter Notebook]. [https://github.com/infoqualitylab/openpayments-api](https://github.com/infoqualitylab/openpayments-api)
+
+Malik Oyewale Salami & Corinne McCumber. (2024). Retraction indexing agreement: 2024 Preprint Final Code (2.0.0) [Python]. Zenodo. [https://doi.org/10.5281/zenodo.14183542](https://doi.org/10.5281/zenodo.14183542)
+
+Mark Van Moer (2022). Information Quality Lab/Research Software Collaborative Services Collaboration on Visualizing Inclusion Networks and Coauthor Networks (1.0.0) [Python]. [https://github.com/infoqualitylab/RSCS-collaboration](https://github.com/infoqualitylab/RSCS-collaboration)
+
 Yuanxi Fu (2022). Scopus author info tool (1.0.1) [Python]. [https://github.com/infoqualitylab/Scopus_author_info_collection](https://github.com/infoqualitylab/Scopus_author_info_collection)
 
-Mark Van Moer (2022). Information Quality Lab/Research Software Collaborative Services Collaboration on Visualizing Inclusion Networks and Coauthor Networks [Python]. [https://github.com/infoqualitylab/RSCS-collaboration](https://github.com/infoqualitylab/RSCS-collaboration)
+Ishita Sarraf & Yuanxi Fu. (2024). Text Mining Scholarly API (1.0.0) [Python and Shell]. [https://github.com/infoqualitylab/text-mining-scholarly-API](https://github.com/infoqualitylab/text-mining-scholarly-API)
 
+Doreen Yang & Yuanxi Fu. (2023). WhoFundedIt app (1.0.0) [Python]. [https://github.com/infoqualitylab/WhoFundedIt-app](https://github.com/infoqualitylab/WhoFundedIt-app)
 ### Datasets
 Yuanxi Fu, Tzu-Kun Hsiao, & Manasi Ballal Joshi (2022). The Salt Controversy Systematic Review Reports and Primary Study Reports Network Dataset. University of Illinois at Urbana-Champaign Databank. [https://doi.org/10.13012/B2IDB-6128763_V2](https://doi.org/10.13012/B2IDB-6128763_V2)
 
