@@ -30,7 +30,7 @@ agenda analyzes controversies applying science to public policy; how
 knowledge brokers influence citizens; and whether controversies are
 sustained by citizens’ disparate interpretations of scientific evidence
 and its quality. Her work has been funded by the Alfred P. Sloan Foundation,
-the European Commission, IMLS, NIH, Science Foundation Ireland, the Office of Research Integirty, the Harvard Radcliffe Institute for Advanced Studies, and an NSF CAREER award.
+the European Commission, IMLS, NIH, Science Foundation Ireland, the Office of Research Integrity, the Harvard Radcliffe Institute for Advanced Studies, and an NSF CAREER award.
 
 Schneider completed her PhD in informatics at the National University of
 Ireland ("Enabling reuse of arguments and opinions from online social
