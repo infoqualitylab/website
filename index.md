@@ -23,21 +23,14 @@ DIRECTOR: Jodi Schneider:
 ![image of Jodi](/images/jodi_schneider.jpg "Jodi Schneider")
 
 
-Dr. Jodi Schneider is [Associate Professor of Information Sciences at the
-University of Illinois Urbana-Champaign](https://ischool.illinois.edu/people/jodi-schneider), 
-where she directs the Information Quality Lab. She studies the science of science 
+Dr. Jodi Schneider is [Associate Professor of Information at the
+University of Wisconsin-Madison](https://ischool.wisc.edu/staff/schneider-jodi/). She directs the Information Quality Lab and participates in the [Metascience Research Lab](https://metasci.ischool.wisc.edu). She studies the science of science 
 through the lens of arguments, evidence, and persuasion. Her long-term research
 agenda analyzes controversies applying science to public policy; how
 knowledge brokers influence citizens; and whether controversies are
 sustained by citizens’ disparate interpretations of scientific evidence
-and its quality. She holds affiliate appointments in the Beckman
-Institute, Health Care Engineering Systems Center, European Union
-Center, Informatics, Center for Health Informatics, and Cline Center for
-Advanced Social Research at the University of Illinois and the
-Department of Psychiatry of the University of Illinois Chicago School of
-Medicine. Her work has been funded by the Alfred P. Sloan Foundation,
-the European Commission, IMLS, NIH, Science Foundation Ireland, and an
-NSF CAREER award.
+and its quality. Her work has been funded by the Alfred P. Sloan Foundation,
+the European Commission, IMLS, NIH, Science Foundation Ireland, the Office of Research Integirty, the Harvard Radcliffe Institute for Advanced Studies, and an NSF CAREER award.
 
 Schneider completed her PhD in informatics at the National University of
 Ireland ("Enabling reuse of arguments and opinions from online social
