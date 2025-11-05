@@ -12,7 +12,7 @@ CAREER awards, administered under the [Faculty Early Career Development Program]
 
 ## Join our Citizen Advisory Board
 Do you use scientific literature? Would you like to provide feedback on tools for making sense of scientific literature? We seek citizen advisors who are interested in science-based decision-making. We are especially looking for feedback in four key areas: conservation, energy policy, healthcare, and sustainable development. People using science in any area are invited. If you are inclined, you are also welcome to try out our tools to analyze literature yourself. 
-If you are interested in joining our citizen advisory board, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSefZpvKMQvm8tFJq3eMStL-2EtZuwiNKLydkSII2CWBr_5glQ/viewform?usp=sf_link) or contact jodi@illinois.edu if you would like more information. 
+If you are interested in joining our citizen advisory board, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSefZpvKMQvm8tFJq3eMStL-2EtZuwiNKLydkSII2CWBr_5glQ/viewform?usp=sf_link) or contact cmccumber@wisc.edu if you would like more information. 
 
 
 ## People Funded by the Project
