@@ -16,11 +16,11 @@ If you are interested in joining our citizen advisory board, please fill out [th
 
 
 ## People Funded by the Project
-[Dr. Jodi Schneider (PI)](https://ischool.illinois.edu/people/jodi-schneider), Associate Professor, School of Information Sciences, University of Illinois at Urbana Champaign, jodi@illinois.edu 
+[Dr. Jodi Schneider (PI)](https://ischool.wisc.edu/staff/schneider-jodi/), Associate Professor, Information School, University of Wisconsin-Madison 
 
-[Yuanxi Fu]([https://ischool.illinois.edu/people/jodi-schneider](https://ischool.illinois.edu/people/yuanxi-fu)), research assistant & doctoral student, School of Information Sciences, University of Illinois at Urbana Champaign
+[Yuanxi Fu](https://ischool.illinois.edu/people/yuanxi-fu), research assistant & doctoral student, School of Information Sciences, University of Illinois at Urbana Champaign
 
-Corinne McCumber, research assistant, School of Information Sciences, University of Illinois at Urbana Champaign, corinne9@illinois.edu
+Corinne McCumber, researcher, Information School, University of Wisconsin-Madison, cmccumber@wisc.edu
 
 [Jana Sebestik](https://education.illinois.edu/people/jana-sebestik), Interim Director, Office for Mathematics, Science, & Technology Education, College of Education, University of Illinois at Urbana Champaign
 
