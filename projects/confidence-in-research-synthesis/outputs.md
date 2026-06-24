@@ -6,10 +6,10 @@ permalink: /projects/confidence-in-research-synthesis/outputs
 ### Preprint and Work in Progress
 Malik Oyewale Salami, Corinne McCumber, and Jodi Schneider (2024). “Analyzing the Consistency of Retraction Indexing” Preprint v2 in MetaArXiv: [doi:10.31222/osf.io/gvfk5_v2](https://doi.org/doi:10.31222/osf.io/gvfk5_v2)
 
-Caitlin Bakker, Susmita Das, Yuanxi Fu, Tzu-Kun (Esther) Hsiao, Jess Rogovin, William White, Jodi Schneider. Post-retraction citation: A review of scholarly research on the spread of retracted science. Work in progress.
+Caitlin Bakker, Susmita Das, Yuanxi Fu, Tzu-Kun (Esther) Hsiao, Jess Rogovin, William White, Jodi Schneider. "Post-retraction citation: A review of scholarly research on the spread of retracted science." Work in progress.
 
 ### Publications
-Heng Zheng, Yuanxi Fu, M. Janina Sarol, Ishita Sarraf, and Jodi Schneider. (2024). “Addressing unreliability propagation in scientific digital libraries.” ACM/IEEE-CS Joint Conference on Digital Libraries 2024, Hong Kong and online. Article No.: 1, Pages 1-11 doi:10.1145/3677389.3702526
+Heng Zheng, Yuanxi Fu, M. Janina Sarol, Ishita Sarraf, and Jodi Schneider. (2024). “Addressing unreliability propagation in scientific digital libraries.” ACM/IEEE-CS Joint Conference on Digital Libraries 2024, Hong Kong and online. Article No.: 1, Pages 1-11 [doi:10.1145/3677389.3702526](https://doi.org/10.1145/3677389.3702526)
 
 Christoph Stade, Jodi Schneider, and Yuanxi Fu. (2024). “Making sense of the environmental science landscape: An exploration of the CEEDER database.” In The Association for Information Science and Technology MET-STI 2024: Workshop on Informetric, Scientometric and Scientific and Technical Information Research. Online, November 13. [doi:10.5281/zenodo.13895516](https://doi.org/10.5281/zenodo.13895516)
 
@@ -17,11 +17,11 @@ Malik Salami, Corinne McCumber, and Jodi Schneider. (2024(. “Reassessment of t
 
 Yuanxi Fu, Caitlin Vitosky Clarke, Mark Van Moer, and Jodi Schneider. (2024). “Exploring Evidence Selection with the Inclusion Network”.  *Quantitative Science Studies* 5(1): 219–245. [doi:10.1162/qss_a_00287](https://doi.org/10.1162/qss_a_00287)
 
-Christoph Stade, Jodi Schneider, and Yuanxi Fu. (2024). “Making sense of the environmental science landscape: An exploration of the CEEDER database.” In The Association for Information Science and Technology MET-STI 2024: Workshop on Informetric, Scientometric and Scientific and Technical Information Research. Online, November 13. [doi:10.5281/zenodo.13895516](http://doi.org/10.5281/zenodo.13895516)
+Christoph Stade, Jodi Schneider, and Yuanxi Fu. (2024). “Making sense of the environmental science landscape: An exploration of the CEEDER database.” In *The Association for Information Science and Technology MET-STI 2024: Workshop on Informetric, Scientometric and Scientific and Technical Information Research*. Online, November 13. [doi:10.5281/zenodo.13895516](http://doi.org/10.5281/zenodo.13895516)
 
-Malik Salami, Corinne McCumber, and Jodi Schneider. “Reassessment of the agreement in retraction indexing across 4 multidisciplinary sources: Crossref, Retraction Watch, Scopus, and Web of Science.” In The Association for Information Science and Technology MET-STI 2024: Workshop on Informetric, Scientometric and Scientific and Technical Information Research. Online, November 13. Best student paper award. [doi:10.5281/zenodo.14004526](http://doi.org/10.5281/zenodo.14004526)
+Malik Salami, Corinne McCumber, and Jodi Schneider. “Reassessment of the agreement in retraction indexing across 4 multidisciplinary sources: Crossref, Retraction Watch, Scopus, and Web of Science.” In *The Association for Information Science and Technology MET-STI 2024: Workshop on Informetric, Scientometric and Scientific and Technical Information Research*. Online, November 13. Best student paper award. [doi:10.5281/zenodo.14004526](http://doi.org/10.5281/zenodo.14004526)
 
-Christoph Stade, Jodi Schneider, and Yuanxi Fu+. (2025). “From evidence to insights: GraphRAG as a dynamic knowledge layer for the Collaboration for Environmental Evidence's Database of Evidence Reviews.” In The Workshop on Knowledge Graphs for Sustainability at the Extended Semantic Web Conference 2025. Portoroz, Slovenia. June 1st. CEUR-WS Proceedings volume 4002, pages 39-45.  [https://ceur-ws.org/Vol-4002/short6.pdf](https://ceur-ws.org/Vol-4002/short6.pdf)
+Christoph Stade, Jodi Schneider, and Yuanxi Fu+. (2025). “From evidence to insights: GraphRAG as a dynamic knowledge layer for the Collaboration for Environmental Evidence's Database of Evidence Reviews.” In *The Workshop on Knowledge Graphs for Sustainability at the Extended Semantic Web Conference 2025*. Portoroz, Slovenia. June 1st. CEUR-WS Proceedings volume 4002, pages 39-45.  [https://ceur-ws.org/Vol-4002/short6.pdf](https://ceur-ws.org/Vol-4002/short6.pdf)
 
 
 ### Software (alphabetical by repository name)
