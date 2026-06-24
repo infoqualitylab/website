@@ -79,7 +79,7 @@ Yuanxi Fu. (2023, Jul). Exploring Evidence Selection with the Inclusion Network.
 
 Jodi Schneider. (2023, Jul). How do empirical biomedical research articles argue? Examining the layers of rhetorical, domain-specific, and citation-based argumentation. International Society for the Study of Argumentation conference
 
-Ishita Sarraf. (2023 July 26). Text mining scholarly publications using APIs. Presented at Illinois Summer Research Program Alliance STEM Career Exploration and Symposium, University of Illinois at Urbana Champaign. https://hdl.handle.net/2142/120049
+Ishita Sarraf. (2023 July 26). Text mining scholarly publications using APIs. Presented at Illinois Summer Research Program Alliance STEM Career Exploration and Symposium, University of Illinois at Urbana Champaign. [https://hdl.handle.net/2142/120049](https://hdl.handle.net/2142/120049)
 
 
 ### Poster Presentations
@@ -91,7 +91,7 @@ Shashank Kambhatla, Yuanxi Fu & Jodi Schneider. Evaluating Crossref Funding Data
 Zhiheng Ye, Yuanxi Fu & Jodi Schneider. Using Data Visualization to Characterize Bibliographies. Poster presented at the Undergraduate Research Symposium, University of Illinois at Urbana Champaign, April 27, 2023.
 [https://hdl.handle.net/2142/117485](https://hdl.handle.net/2142/117485)
 
-Deyuan (Doreen) Yang. "WhoFundedIt" Web Application Design and Development. Poster presented at the Illinois Summer Research Program Alliance STEM Career Exploration and Symposium. University of Illinois at Urbana Champaign, July 26, 2023. [https://www.ideals.illinois.edu/items/127268](https://www.ideals.illinois.edu/items/127268)
+Deyuan (Doreen) Yang. "WhoFundedIt" Web Application Design and Development. Poster presented at the Illinois Summer Research Program Alliance STEM Career Exploration and Symposium. University of Illinois at Urbana Champaign, July 26, 2023. [https://hdl.handle.net/2142/120047](https://hdl.handle.net/2142/120047)
 
 ### Curricula
 Graduate Course in Research Impact (IS597RIO) [PDF](https://jodischneider.com/syllabi/2023spring--is597rio--researchimpact-bibliometrics-datascience.pdf) and [DOCX](https://jodischneider.com/syllabi/2023spring--is597rio--researchimpact-bibliometrics-datascience.docx)
