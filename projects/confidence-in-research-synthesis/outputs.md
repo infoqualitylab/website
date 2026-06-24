@@ -21,7 +21,7 @@ Christoph Stade, Jodi Schneider, and Yuanxi Fu. (2024). “Making sense of the e
 
 Malik Salami, Corinne McCumber, and Jodi Schneider. “Reassessment of the agreement in retraction indexing across 4 multidisciplinary sources: Crossref, Retraction Watch, Scopus, and Web of Science.” In The Association for Information Science and Technology MET-STI 2024: Workshop on Informetric, Scientometric and Scientific and Technical Information Research. Online, November 13. Best student paper award. [doi:10.5281/zenodo.14004526](http://doi.org/10.5281/zenodo.14004526)
 
-Christoph Stade, Jodi Schneider, and Yuanxi Fu+. (2025). “From evidence to insights: GraphRAG as a dynamic knowledge layer for the Collaboration for Environmental Evidence's Database of Evidence Reviews.” In The Workshop on Knowledge Graphs for Sustainability at the Extended Semantic Web Conference 2025. Portoroz, Slovenia. June 1st. CEUR-WS Proceedings volume 4002, pages 39-45.  (https://ceur-ws.org/Vol-4002/short6.pdf)[https://ceur-ws.org/Vol-4002/short6.pdf]
+Christoph Stade, Jodi Schneider, and Yuanxi Fu+. (2025). “From evidence to insights: GraphRAG as a dynamic knowledge layer for the Collaboration for Environmental Evidence's Database of Evidence Reviews.” In The Workshop on Knowledge Graphs for Sustainability at the Extended Semantic Web Conference 2025. Portoroz, Slovenia. June 1st. CEUR-WS Proceedings volume 4002, pages 39-45.  [https://ceur-ws.org/Vol-4002/short6.pdf](https://ceur-ws.org/Vol-4002/short6.pdf)
 
 
 ### Software (alphabetical by repository name)
